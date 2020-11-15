@@ -8,8 +8,7 @@ I use control theory to understand how humans and other animals work to achieve 
 I'm currently a PhD student with [Amitai Shenahv](https://www.shenhavlab.org/) and [Michael Frank](https://www.lnccbrown.com/), and an honorary lab member with [Matthew Nassar](https://sites.brown.edu/mattlab/).
 <br>
 [[Curriculum Vitae](./assets/CV/current_CV.pdf)]
-
-<br><br>
+<br>
 
 ## Publications
 
@@ -32,7 +31,7 @@ I'm currently a PhD student with [Amitai Shenahv](https://www.shenhavlab.org/) a
   *Journal of Cognitive Neuroscience* [[PDF](./assets/papers/Ritz et al. 2018 - A Control Theoretic Model of Adaptive Learning in Dynamic Environments.pdf)]
 
 
-
+<br>
 
 
 ## Manuscripts Under Review or In Revision
@@ -54,8 +53,10 @@ I'm currently a PhD student with [Amitai Shenahv](https://www.shenhavlab.org/) a
   **Ritz, H.**, Wild, C., Johnsrude, I.
   <br>
   [[preprint](https://www.biorxiv.org/content/10.1101/2020.10.02.324509v2.abstract)]
-  
-<br><br>
+ 
+
+<br>
+
 
 ## Conference Proceedings 
 
@@ -88,9 +89,11 @@ I'm currently a PhD student with [Amitai Shenahv](https://www.shenhavlab.org/) a
   **Ritz, H.**, Nassar, M.R., Frank, M.J., & Shenhav, A. (2017)
   <br>
   3rd Multidisciplinary Conference on Reinforcement Learning and Decision Making
-  
-  <br><br> 
-  
+
+
+<br>
+
+
 ## Selected Talks
 
 - **Optimal decisions in dynamical systems**
@@ -117,3 +120,7 @@ I'm currently a PhD student with [Amitai Shenahv](https://www.shenhavlab.org/) a
   <br>
   Society for Neuroscience [2017] *Nanosymposium*
   
+
+<br>
+
+
