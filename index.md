@@ -4,7 +4,8 @@ layout: homepage
 
 ## Research Interests
 I'm interested in using optimal control theory to understand how we achieve our goals.
-
+<br>
+[[Curriculum Vitae]()]
 
 
 ## Publications
