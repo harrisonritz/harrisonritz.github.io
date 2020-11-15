@@ -14,9 +14,9 @@ I'm currently a PhD student with [Amitai Shenahv](https://www.shenhavlab.org/) a
 
 
 ## Education
-- **Brown University** - PhD in Psychology [2016 - Current]
-- **University of Western Ontario** - MSc in Psychology [2014 - 2016]
-- **Queen’s University** - BSc in Psychology [2010 - 2014]
+- **Brown University** - PhD in Psychology (2016 - Current)
+- **University of Western Ontario** - MSc in Psychology (2014 - 2016)
+- **Queen’s University** - BSc in Psychology (2010 - 2014)
 
 
 <br>
@@ -110,27 +110,27 @@ I'm currently a PhD student with [Amitai Shenahv](https://www.shenhavlab.org/) a
 
 - **Optimal decisions in dynamical systems**
   <br>
-  ConCat Series, New York University [2020]
+  ConCat Series, New York University (2020)
   
 - **Optimal control of effort for reward**
   <br>
-  P6 Series, Princeton University [2019]
+  P6 Series, Princeton University (2019)
   
 - **Model-based decision-making is associated with structure inference ability**
   <br>
-  Reinforcement Learning and Decision Making [2019] *Workshop*
+  Reinforcement Learning and Decision Making (2019) *Workshop*
 
 - **Parametric control of distractor-oriented attention**
   <br>
-  Cognitive Science Society [2019] *Paper Session*
+  Cognitive Science Society (2019) *Paper Session*
 
 - **Controlling learning and learning control**
   <br>
-  CBC Series, Universitat Pompeu Fabra [2018]
+  CBC Series, Universitat Pompeu Fabra (2018)
   
 - **Behavioral evidence for PID-like feedback control**
   <br>
-  Society for Neuroscience [2017] *Nanosymposium*
+  Society for Neuroscience (2017) *Nanosymposium*
   
 
 <br>
