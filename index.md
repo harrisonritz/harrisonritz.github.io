@@ -103,9 +103,7 @@ I'm interested in using optimal control theory to understand how we achieve our 
   
 - **Model-based decision-making is associated with structure inference ability**
   <br>
-  Reinforcement Learning and Decision Making [2019]
-  <br>
-  *Workshop Talk*
+  Reinforcement Learning and Decision Making [2019] *Workshop Talk*
 
 - **Controlling learning and learning control**
   <br>
@@ -113,7 +111,5 @@ I'm interested in using optimal control theory to understand how we achieve our 
   
 - **Behavioral evidence for PID-like feedback control**
   <br>
-  Society for Neuroscience [2017]
-  <br>
-  *Nanosymposium Talk*
+  Society for Neuroscience [2017] *Nanosymposium Talk*
   
