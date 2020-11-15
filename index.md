@@ -108,7 +108,7 @@ I'm interested in using optimal control theory to understand how we achieve our 
 
 - **Controlling learning and learning control**
   <br>
-  CBC Series, Universitat Pompeu Fabra [2020]
+  CBC Series, Universitat Pompeu Fabra [2018]
   
 - **Behavioral evidence for PID-like feedback control**
   <br>
