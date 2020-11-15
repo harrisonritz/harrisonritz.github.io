@@ -13,6 +13,15 @@ I'm currently a PhD student with [Amitai Shenahv](https://www.shenhavlab.org/) a
 <br>
 
 
+## Education
+**Brown University** PhD in Psychology [2016 - Current] <br>
+**University of Western Ontario** MSc in Psychology [2014 - 2016] <br>
+**Queen’s University** BSc in Psychology [2010 - 2014] <br>
+
+
+<br>
+
+
 ## Publications
 
 - **Bridging motor and cognitive control: It’s about time! (Spotlight)**
