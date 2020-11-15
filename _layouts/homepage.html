@@ -56,6 +56,11 @@
       <footer>
         <div class="social-icons">
 
+          {% if site.twitter %}
+          <a href="{{ site.twitter }}" target="_blank">
+            <i class="fab fa-twitter"></i>
+          </a>
+          {% endif %}
           {% if site.linkedin %}
           <a href="{{ site.linkedin }}" target="_blank">
             <i class="fab fa-linkedin-in"></i>
