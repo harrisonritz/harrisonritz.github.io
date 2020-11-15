@@ -1,15 +1,14 @@
-title: Your Name
-position: Ph.D. Student
-affiliation: Your Affiliation
-email: yourname (at) example.edu
-keywords: minimal academic
-google_scholar: https://scholar.google.com/
-github_link: https://github.com/yaoyao-liu/minimal-light
-linkedin: https://www.linkedin.com/
+title: Harrison Ritz
+position: Ph.D. Candidate
+affiliation: Brown University
+email: hritz (at) brown.edu
+keywords: Harrison Ritz
+google_scholar: https://scholar.google.com/citations?user=2MGy7zwAAAAJ&hl=en
+github_link: https://github.com/harrisonritz
 avatar: ./assets/img/avatar.png
-google_analytics: UA-111540567-4
+google_analytics: UA-31678746-1
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://harrisonritz.github.io/test_website/
+canonical: https://harrisonritz.github.io
 remote_theme: yaoyao-liu/minimal-light
