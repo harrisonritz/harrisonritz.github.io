@@ -14,19 +14,19 @@ I'm interested in using optimal control theory to understand how we achieve our 
   <br>
   **Ritz, H.**, Frömer, R. & Shenhav, A. (2020)
   <br>
-  *Trends in Cognitive Science* [[PDF]()]
+  *Trends in Cognitive Science* [[PDF](Ritz et al. 2020 - Bridging Motor and Cognitive Control - It's About Time!.pdf)]
 
 - **Dissociable forms of uncertainty-driven representational change across the human brain**
   <br>
   Nassar, M.R., McGuire, J.T., **Ritz, H.**, & Kable, J. (2019)
   <br>
-  *Journal of Neuroscience* [[PDF]()]
+  *Journal of Neuroscience* [[PDF](./assets/papers/Nassar et al. 2019 - Dissociable Forms of Uncertainty-Driven Representational Change Across the Human Brain.pdf)]
 
 - **A control theoretic model of adaptive behavior in dynamic environments**
   <br>
   **Ritz, H.**, Nassar, M.R., Frank, M.J., & Shenhav, A. (2018)
   <br>
-  *Journal of Cognitive Neuroscience* [[PDF]()]
+  *Journal of Cognitive Neuroscience* [[PDF](./assets/papers/Ritz et al. 2018 - A Control Theoretic Model of Adaptive Learning in Dynamic Environments.pdf)]
 
 
 
@@ -62,31 +62,31 @@ I'm interested in using optimal control theory to understand how we achieve our 
   <br>
   **Ritz, H.**, DeGutis, J., Frank M.J., Esterman, M., & Shenhav, A. (2020)
   <br>
-  42nd Annual Meeting of the Cognitive Science Society [[PDF]()]
+  42nd Annual Meeting of the Cognitive Science Society [[PDF](./assets/papers/Ritz et al. - An evidence accumulation model of motivational and developmental influences over sustained attention.pdf)]
 
 - **Dissociable influences of reward and punishment on adaptive cognitive control**
   <br>
   Leng, X., **Ritz, H.**, Yee, D., & Shenhav, A. (2020)
   <br>
-  42nd Annual Meeting of the Cognitive Science Society [[PDF]()]
+  42nd Annual Meeting of the Cognitive Science Society
 
 - **Parametric control of distractor-oriented attention**
   <br>
   **Ritz, H.** & Shenhav, A. (2019)
   <br>
-  41st Annual Meeting of the Cognitive Science Society [[PDF]()]
+  41st Annual Meeting of the Cognitive Science Society [[PDF](./assets/papers/Ritz and Shenhav - Parametric control of distractor-oriented attention.pdf)]
   
 - **Decisions about reward and effort for the learning and control of dynamical systems**
   <br>
   **Ritz, H.**, Nassar, M.R., Frank, M.J., & Shenhav, A. (2019)
   <br>
-  4th Multidisciplinary Conference on Reinforcement Learning and Decision Making [[PDF]()]
+  4th Multidisciplinary Conference on Reinforcement Learning and Decision Making
   
 - **Behavioral evidence for PID-like feedback control**
   <br>
   **Ritz, H.**, Nassar, M.R., Frank, M.J., & Shenhav, A. (2017)
   <br>
-  3rd Multidisciplinary Conference on Reinforcement Learning and Decision Making [[PDF]()]
+  3rd Multidisciplinary Conference on Reinforcement Learning and Decision Making
   
   
   
