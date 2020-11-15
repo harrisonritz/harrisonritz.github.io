@@ -55,9 +55,7 @@ I'm currently a PhD student with [Amitai Shenahv](https://www.shenhavlab.org/) a
   <br>
   [[preprint](https://www.biorxiv.org/content/10.1101/2020.10.02.324509v2.abstract)]
   
-
-
-
+<br><br>
 
 ## Conference Proceedings 
 
@@ -91,8 +89,7 @@ I'm currently a PhD student with [Amitai Shenahv](https://www.shenhavlab.org/) a
   <br>
   3rd Multidisciplinary Conference on Reinforcement Learning and Decision Making
   
-  
-  
+  <br><br> 
   
 ## Selected Talks
 
