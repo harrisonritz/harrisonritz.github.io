@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## Research Interests
-
+I'm interested in using optimal control theory to understand how we achieve our goals.
 
 
 
@@ -29,6 +29,8 @@ layout: homepage
 
 
 
+
+
 ## Manuscripts Under Review or In Revision
 
 - **Individual differences in model-based planning are linked to the ability to infer latent structure**
@@ -49,6 +51,8 @@ layout: homepage
   <br>
   [[preprint](https://www.biorxiv.org/content/10.1101/2020.10.02.324509v2.abstract)]
   
+
+
 
 
 ## Conference Proceedings 
@@ -85,27 +89,30 @@ layout: homepage
   
   
   
-
-
-
-
-
+  
 ## Selected Talks
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
+- **Optimal decisions in dynamical systems**
   <br>
-  NeurIPS Official Meetups
+  ConCat Series, New York University [2020]
+  
+- **Optimal control of reward and effort**
   <br>
-  Beijing, China, December 2019 [[Slides](https://people.mpi-inf.mpg.de/~yaliu/files/learning-to-self-train-slides.pdf)]
+  P6 Series, Princeton University [2019]
+  
+- **Model-based decision-making is associated with structure inference ability**
+  <br>
+  Reinforcement Learning and Decision Making [2019]
+  <br>
+  Workshop Talk
 
-- **Multi-Class Incremental Learning**
+- **Controlling learning and learning control**
   <br>
-  School of Computer Science and Engineering, Nanyang Technological University
+  CBC Series, Universitat Pompeu Fabra [2020]
+  
+- **Behavioral evidence for PID-like feedback control**
   <br>
-  Singapore, July 2019 [[Slides](https://people.mpi-inf.mpg.de/~yaliu/files/multi-class-incremental-learning.pdf)]
-
-- **Meta-Transfer Learning for Few-Shot Learning**
+  Society for Neuroscience [2017]
   <br>
-  School of Computing, National University of Singapore
-  <br>
-  Singapore, April 2019 [[Slides](https://people.mpi-inf.mpg.de/~yaliu/files/meta-transfer-learning-slides.pdf)]
+  Nanosymposium Talk
+  
