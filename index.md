@@ -4,41 +4,90 @@ layout: homepage
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
 
-## News
 
-- **[Feb 2020]** Our paper about incremental learning is accepted to [CVPR 2020](http://cvpr2020.thecvf.com/).
-- **[Feb 2020]** We will host the [ACM Multimedia Asia 2020](https://mmasia2020.org/) conference in Singapore!
-- **[Sep 2019]** Our paper about few-shot learning is accepted to [NeurIPS 2019](https://nips.cc/Conferences/2019).
-- **[Mar 2019]** Our paper about few-shot learning is accepted to [CVPR 2019](http://cvpr2019.thecvf.com/).
 
 ## Publications
 
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
+- **Bridging motor and cognitive control: It’s about time! (Spotlight)**
   <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  **Ritz, H.**, Frömer, R. & Shenhav, A. (2020)
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
-  <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+  *Trends in Cognitive Science* [[PDF]()]
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
+- **Dissociable forms of uncertainty-driven representational change across the human brain**
   <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
+  Nassar, M.R., McGuire, J.T., **Ritz, H.**, & Kable, J. (2019)
   <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
-  <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
+  *Journal of Neuroscience* [[PDF]()]
 
-- **Meta-Transfer Learning for Few-Shot Learning**
+- **A control theoretic model of adaptive behavior in dynamic environments**
   <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
+  **Ritz, H.**, Nassar, M.R., Frank, M.J., & Shenhav, A. (2018)
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
+  *Journal of Cognitive Neuroscience* [[PDF]()]
+
+
+
+## Manuscripts Under Review or In Revision
+
+- **Individual differences in model-based planning are linked to the ability to infer latent structure**
   <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
+  Rmus, M., **Ritz, H.**, Hunter, L.E., Bornstein, A.M., & Shenhav, A.
+  <br>
+  [[preprint](https://www.biorxiv.org/content/10.1101/723072v1.abstract)]
+  
+- **Dissociable influences of reward and punishment on adaptive cognitive control**
+  <br>
+  Leng, X., Lee, D., **Ritz, H.**, & Shenhav, A.
+  <br>
+  [[preprint](https://www.biorxiv.org/content/10.1101/2020.09.11.294157v1.abstract)]
+  
+- **Parametric cognitive load reveals hidden costs in the neural processing of perfectly intelligible degraded speech**
+  <br>
+  **Ritz, H.**, Wild, C., Johnsrude, I.
+  <br>
+  [[preprint](https://www.biorxiv.org/content/10.1101/2020.10.02.324509v2.abstract)]
+  
+
+
+## Conference Proceedings 
+
+- **An evidence accumulation model of motivational and developmental influences over sustained attention**
+  <br>
+  **Ritz, H.**, DeGutis, J., Frank M.J., Esterman, M., & Shenhav, A. (2020)
+  <br>
+  42nd Annual Meeting of the Cognitive Science Society [[PDF]()]
+
+- **Dissociable influences of reward and punishment on adaptive cognitive control**
+  <br>
+  Leng, X., **Ritz, H.**, Yee, D., & Shenhav, A. (2020)
+  <br>
+  42nd Annual Meeting of the Cognitive Science Society [[PDF]()]
+
+- **Parametric control of distractor-oriented attention**
+  <br>
+  **Ritz, H.** & Shenhav, A. (2019)
+  <br>
+  41st Annual Meeting of the Cognitive Science Society [[PDF]()]
+  
+- **Decisions about reward and effort for the learning and control of dynamical systems**
+  <br>
+  **Ritz, H.**, Nassar, M.R., Frank, M.J., & Shenhav, A. (2019)
+  <br>
+  4th Multidisciplinary Conference on Reinforcement Learning and Decision Making [[PDF]()]
+  
+- **Behavioral evidence for PID-like feedback control**
+  <br>
+  **Ritz, H.**, Nassar, M.R., Frank, M.J., & Shenhav, A. (2017)
+  <br>
+  3rd Multidisciplinary Conference on Reinforcement Learning and Decision Making [[PDF]()]
+  
+  
+  
+
+
+
 
 
 ## Selected Talks
@@ -60,9 +109,3 @@ layout: homepage
   School of Computing, National University of Singapore
   <br>
   Singapore, April 2019 [[Slides](https://people.mpi-inf.mpg.de/~yaliu/files/meta-transfer-learning-slides.pdf)]
-
-## Services
-
-- Co-organizer: [ACM MM Asia 2020](https://mmasia2020.org/).
-- Conference Reviewers: [NeurIPS 2020](https://neurips.cc/Conferences/2020), and [CVPR 2020](http://cvpr2020.thecvf.com/).
-- Journal Reviewers: [T-PAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), and [IJCV](https://www.springer.com/journal/11263).
