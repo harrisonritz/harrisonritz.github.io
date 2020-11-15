@@ -37,7 +37,7 @@ I'm currently a PhD student with [Amitai Shenahv](https://www.shenhavlab.org/) a
 <br>
 
 
-## Manuscripts Under Review or In Revision
+## Preprints
 
 - **Individual differences in model-based planning are linked to the ability to infer latent structure**
   <br>
