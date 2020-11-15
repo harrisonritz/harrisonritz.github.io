@@ -14,6 +14,7 @@ I'm interested in using optimal control theory to understand how we achieve our 
   <br>
   **Ritz, H.**, Frömer, R. & Shenhav, A. (2020)
   <br>
+  <i>Oral Presentation</i>
   *Trends in Cognitive Science* [[PDF]()]
 
 - **Dissociable forms of uncertainty-driven representational change across the human brain**
