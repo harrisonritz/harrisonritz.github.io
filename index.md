@@ -97,13 +97,17 @@ I use control theory to understand how humans and other animals work to achieve 
   <br>
   ConCat Series, New York University [2020]
   
-- **Optimal control of reward and effort**
+- **Optimal control of effort for reward**
   <br>
   P6 Series, Princeton University [2019]
   
 - **Model-based decision-making is associated with structure inference ability**
   <br>
-  Reinforcement Learning and Decision Making [2019] *Workshop Talk*
+  Reinforcement Learning and Decision Making [2019] *Workshop*
+
+- **Parametric control of distractor-oriented attention**
+  <br>
+  Cognitive Science Society [2019] *Paper Session*
 
 - **Controlling learning and learning control**
   <br>
@@ -111,5 +115,5 @@ I use control theory to understand how humans and other animals work to achieve 
   
 - **Behavioral evidence for PID-like feedback control**
   <br>
-  Society for Neuroscience [2017] *Nanosymposium Talk*
+  Society for Neuroscience [2017] *Nanosymposium*
   
