@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## Research Interests
-I'm interested in using optimal control theory to understand how we achieve our goals.
+I use control theory to understand how humans and other animals work to achieve their goals.
 <br>
 [[Curriculum Vitae](./assets/CV/current_CV.pdf)]
 
@@ -14,7 +14,7 @@ I'm interested in using optimal control theory to understand how we achieve our 
   <br>
   **Ritz, H.**, Frömer, R. & Shenhav, A. (2020)
   <br>
-  *Trends in Cognitive Science* [[PDF](Ritz et al. 2020 - Bridging Motor and Cognitive Control - It's About Time!.pdf)]
+  *Trends in Cognitive Science* [[PDF](./assets/papers/Ritz et al. 2020 - Bridging Motor and Cognitive Control - It's About Time!.pdf)]
 
 - **Dissociable forms of uncertainty-driven representational change across the human brain**
   <br>
