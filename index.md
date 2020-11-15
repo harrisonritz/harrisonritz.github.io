@@ -104,7 +104,7 @@ I'm interested in using optimal control theory to understand how we achieve our 
   <br>
   Reinforcement Learning and Decision Making [2019]
   <br>
-  Workshop Talk
+  ***Workshop Talk***
 
 - **Controlling learning and learning control**
   <br>
@@ -114,5 +114,5 @@ I'm interested in using optimal control theory to understand how we achieve our 
   <br>
   Society for Neuroscience [2017]
   <br>
-  Nanosymposium Talk
+  ***Nanosymposium Talk***
   
