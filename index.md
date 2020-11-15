@@ -7,7 +7,7 @@ I use control theory to understand how humans and other animals work to achieve 
 <br>
 I'm currently a PhD student with [Amitai Shenahv](https://www.shenhavlab.org/) and [Michael Frank](https://www.lnccbrown.com/), and an honorary lab member with [Matthew Nassar](https://sites.brown.edu/mattlab/).
 <br>
-[[Curriculum Vitae](./assets/CV/current_CV.pdf)]
+[[Curriculum Vitae](./assets/CV/hritz_CV.pdf)]
 
 
 <br>
