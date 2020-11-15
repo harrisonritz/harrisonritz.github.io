@@ -61,31 +61,31 @@ I'm interested in using optimal control theory to understand how we achieve our 
   <br>
   **Ritz, H.**, DeGutis, J., Frank M.J., Esterman, M., & Shenhav, A. (2020)
   <br>
-  42nd Annual Meeting of the Cognitive Science Society [[PDF]()]
+  *42nd Annual Meeting of the Cognitive Science Society* [[PDF]()]
 
 - **Dissociable influences of reward and punishment on adaptive cognitive control**
   <br>
   Leng, X., **Ritz, H.**, Yee, D., & Shenhav, A. (2020)
   <br>
-  42nd Annual Meeting of the Cognitive Science Society [[PDF]()]
+  *42nd Annual Meeting of the Cognitive Science Society* [[PDF]()]
 
 - **Parametric control of distractor-oriented attention**
   <br>
   **Ritz, H.** & Shenhav, A. (2019)
   <br>
-  41st Annual Meeting of the Cognitive Science Society [[PDF]()]
+  *41st Annual Meeting of the Cognitive Science Society* [[PDF]()]
   
 - **Decisions about reward and effort for the learning and control of dynamical systems**
   <br>
   **Ritz, H.**, Nassar, M.R., Frank, M.J., & Shenhav, A. (2019)
   <br>
-  4th Multidisciplinary Conference on Reinforcement Learning and Decision Making [[PDF]()]
+  *4th Multidisciplinary Conference on Reinforcement Learning and Decision Making* [[PDF]()]
   
 - **Behavioral evidence for PID-like feedback control**
   <br>
   **Ritz, H.**, Nassar, M.R., Frank, M.J., & Shenhav, A. (2017)
   <br>
-  3rd Multidisciplinary Conference on Reinforcement Learning and Decision Making [[PDF]()]
+  *3rd Multidisciplinary Conference on Reinforcement Learning and Decision Making* [[PDF]()]
   
   
   
