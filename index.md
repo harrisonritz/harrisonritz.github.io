@@ -28,7 +28,7 @@ I'm currently a PhD student with [Amitai Shenahv](https://www.shenhavlab.org/) a
   <br>
   **Ritz, H.**, Frömer, R. & Shenhav, A. (2020)
   <br>
-  *Trends in Cognitive Science* [[PDF](./assets/papers/Ritz et al. 2020 - Bridging Motor and Cognitive Control - It's About Time!.pdf)]
+  *Trends in Cognitive Sciences* [[PDF](./assets/papers/Ritz et al. 2020 - Bridging Motor and Cognitive Control - It's About Time!.pdf)]
 
 - **Dissociable forms of uncertainty-driven representational change across the human brain**
   <br>
