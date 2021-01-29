@@ -111,6 +111,8 @@ I'm currently a PhD student with [Amitai Shenahv](https://www.shenhavlab.org/) a
 - **Optimal decisions in dynamical systems**
   <br>
   ConCat Series, New York University (2020)
+  <br>
+  P6 Series, Princeton University (2021)
   
 - **Optimal control of effort for reward**
   <br>
