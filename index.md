@@ -68,7 +68,7 @@ I'm currently a PhD candidate with [Amitai Shenhav](https://www.shenhavlab.org/)
   
 - **Parametric cognitive load reveals hidden costs in the neural processing of perfectly intelligible degraded speech**
   <br>
-  **Ritz, H.**, Wild, C., Johnsrude, I.
+  **Ritz, H.**, Wild, C., & Johnsrude, I.
   <br>
   [[preprint](https://www.biorxiv.org/content/10.1101/2020.10.02.324509v2.abstract)]
  
