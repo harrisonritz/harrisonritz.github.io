@@ -52,7 +52,7 @@ I'm currently a PhD candidate with [Amitai Shenhav](https://www.shenhavlab.org/)
   <br>
   **Ritz, H.** & Shenhav, A. (2021)
   <br>
-  **Effort Workshop Limited Edition** [[PDF](./assets/papers/Ritz and Shenhav - Humans reconfigure target and distractor processing to address distinct task demands.pdf)]
+  [[**Effort Workshop Limited Edition PDF**](./assets/papers/PACT_effortWorkshop.pdf)]
 
 - **Individual differences in model-based planning are linked to the ability to infer latent structure**
   <br>
