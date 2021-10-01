@@ -112,35 +112,4 @@ I'm currently a PhD candidate with [Amitai Shenhav](https://www.shenhavlab.org/)
 <br>
 
 
-## Selected Talks
-
-- **Optimal decisions in dynamical systems**
-  <br>
-  ConCat Series, New York University (2020)
-  <br>
-  P6 Series, Princeton University (2021)
-  
-- **Optimal control of effort for reward**
-  <br>
-  P6 Series, Princeton University (2019)
-  
-- **Model-based decision-making is associated with structure inference ability**
-  <br>
-  Reinforcement Learning and Decision Making (2019) *Workshop*
-
-- **Parametric control of distractor-oriented attention**
-  <br>
-  Cognitive Science Society (2019) *Paper Session*
-
-- **Controlling learning and learning control**
-  <br>
-  CBC Series, Universitat Pompeu Fabra (2018)
-  
-- **Behavioral evidence for PID-like feedback control**
-  <br>
-  Society for Neuroscience (2017) *Nanosymposium*
-  
-
-<br>
-
 
