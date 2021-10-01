@@ -14,9 +14,9 @@ I'm currently a PhD candidate with [Amitai Shenhav](https://www.shenhavlab.org/)
 
 
 ## Education
-- **Brown University** - PhD in Psychology <br> (2016 - Current)
-- **University of Western Ontario** - MSc in Psychology <br> (2014 - 2016)
-- **Queen’s University** - BSc in Psychology <br> (2010 - 2014)
+- **Brown University** - PhD in Psychology (2016 - Current)
+- **University of Western Ontario** - MSc in Psychology (2014 - 2016)
+- **Queen’s University** - BSc in Psychology (2010 - 2014)
 
 
 <br>
