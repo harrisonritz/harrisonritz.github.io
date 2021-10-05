@@ -48,6 +48,12 @@ I'm currently a PhD candidate with [Amitai Shenhav](https://www.shenhavlab.org/)
 
 ## Preprints
 
+- **Cognitive control as a multivariate optimization problem**
+  <br>
+  **Ritz, H.**, Leng, X., & Shenhav, A.
+  <br>
+  [[preprint](https://arxiv.org/abs/2110.00668)]
+
 - **Humans reconfigure target and distractor processing to address distinct task demands**
   <br>
   **Ritz, H.** & Shenhav, A.
