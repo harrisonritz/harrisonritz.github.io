@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About
-I use control theory to understand how humans and other animals work to achieve their goals.
+I try to understand how humans and other animals achieve their goals through planning and hard work, usually from the perspective of control theory.
 <br>
 I'm currently a PhD candidate with [Amitai Shenhav](https://www.shenhavlab.org/) and [Michael J. Frank](https://www.lnccbrown.com/), and an honorary lab member with [Matthew Nassar](https://sites.brown.edu/mattlab/).
 <br>
