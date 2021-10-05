@@ -100,7 +100,7 @@ I'm currently a PhD candidate with [Amitai Shenhav](https://www.shenhavlab.org/)
   <br>
   **Ritz, H.** & Shenhav, A. (2019)
   <br>
-  41st Annual Meeting of the Cognitive Science Society [[PDF](./assets/papers/Ritz and Shenhav - Parametric control of distractor-oriented attention.pdf)]
+  41st Annual Meeting of the Cognitive Science Society
   
 - **Decisions about reward and effort for the learning and control of dynamical systems**
   <br>
