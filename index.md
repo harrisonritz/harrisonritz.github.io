@@ -3,10 +3,11 @@ layout: homepage
 ---
 
 ## About
-I try to understand how humans and other animals achieve their goals through planning and hard work, usually from the perspective of control theory.
-<br>
+I try to understand how humans and other animals achieve their goals through planning and hard work, often from the perspective of control theory.
+<br><br>
 I'm currently a PhD candidate with [Amitai Shenhav](https://www.shenhavlab.org/) and [Michael J. Frank](https://www.lnccbrown.com/), and an honorary lab member with [Matthew Nassar](https://sites.brown.edu/mattlab/).
-<br>
+<br><br>
+In 2022 I'll start my C.V. Starr Postdoctoral Fellowship with Jonathan Cohen and Nathaniel Daw at Princeton Univeristy.
 [[Curriculum Vitae](./assets/CV/hritz_CV.pdf)]
 
 
