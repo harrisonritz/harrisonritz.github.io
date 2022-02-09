@@ -5,10 +5,10 @@ layout: homepage
 ## About
 I try to understand how humans and other animals achieve their goals through planning and hard work, often from the perspective of control theory.
 <br><br>
-I'm currently a PhD candidate with [Amitai Shenhav](https://www.shenhavlab.org/) and [Michael J. Frank](https://www.lnccbrown.com/), and an honorary lab member with [Matthew Nassar](https://sites.brown.edu/mattlab/).
+I'm currently a PhD candidate with [Amitai Shenhav](https://www.shenhavlab.org/) and [Michael J. Frank](https://www.lnccbrown.com/), and an honorary lab member with [Matthew Nassar](https://sites.brown.edu/mattlab/) at Brown Univeristy.
 <br><br>
-In 2022 I'll start my C.V. Starr Postdoctoral Fellowship with Jonathan Cohen and Nathaniel Daw at Princeton Univeristy.
-<br>
+In 2022 I'll start my C.V. Starr Postdoctoral Fellowship with [Jonathan Cohen](https://ncclab.princeton.edu/) and [Nathaniel Daw](https://dawlab.princeton.edu/) at Princeton Univeristy.
+<br><br>
 [[Curriculum Vitae](./assets/CV/hritz_CV.pdf)]
 
 
@@ -26,17 +26,34 @@ In 2022 I'll start my C.V. Starr Postdoctoral Fellowship with Jonathan Cohen and
 
 ## Publications
 
+
+- **Cognitive control as a multivariate optimization problem**
+  <br>
+  **Ritz, H.**, Leng, X., & Shenhav, A.
+  <br>
+  *Journal of Cognitive Neuroscience* [[pdf](./assets/papers/Ritz et al. 2022 - Cognitive Control as a Multivariate Optimization Problem.pdf)]
+
+
+- **Dissociable influences of reward and punishment on adaptive cognitive control**
+  <br>
+  Leng, X., Lee, D., **Ritz, H.**, & Shenhav, A.
+  <br>
+  *PLOS Computational Biology* [[pdf](./assets/papers/Leng et al. - Dissociable influences of reward and punishment on adaptive cognitive control.pdf)]
+
+
 - **Bridging motor and cognitive control: It’s about time! (Spotlight)**
   <br>
   **Ritz, H.**, Frömer, R. & Shenhav, A. (2020)
   <br>
   *Trends in Cognitive Sciences* [[PDF](./assets/papers/Ritz et al. 2020 - Bridging Motor and Cognitive Control - It's About Time!.pdf)]
 
+
 - **Dissociable forms of uncertainty-driven representational change across the human brain**
   <br>
   Nassar, M.R., McGuire, J.T., **Ritz, H.**, & Kable, J. (2019)
   <br>
   *Journal of Neuroscience* [[PDF](./assets/papers/Nassar et al. 2019 - Dissociable Forms of Uncertainty-Driven Representational Change Across the Human Brain.pdf)]
+
 
 - **A control theoretic model of adaptive behavior in dynamic environments**
   <br>
@@ -50,41 +67,31 @@ In 2022 I'll start my C.V. Starr Postdoctoral Fellowship with Jonathan Cohen and
 
 ## Preprints
 
-- **Cognitive control as a multivariate optimization problem**
-  <br>
-  **Ritz, H.**, Leng, X., & Shenhav, A.
-  <br>
-  [[preprint](https://arxiv.org/abs/2110.00668)]
-
 - **Humans reconfigure target and distractor processing to address distinct task demands**
   <br>
   **Ritz, H.** & Shenhav, A.
   <br>
-  [[preprint](https://www.biorxiv.org/content/10.1101/2021.09.08.459546v1.abstract)]
+  [[preprint](https://doi.org/10.1101/2021.09.08.459546)]
 
-- **Individual differences in model-based planning are linked to the ability to infer latent structure**
+
+- **Humans can navigate complex graph structures acquired during latent learning**
   <br>
   Rmus, M., **Ritz, H.**, Hunter, L.E., Bornstein, A.M., & Shenhav, A.
   <br>
-  [[preprint](https://www.biorxiv.org/content/10.1101/723072v1.abstract)]
+  [[preprint](https://doi.org/10.1101/723072)]
   
-- **Dissociable influences of reward and punishment on adaptive cognitive control**
-  <br>
-  Leng, X., Lee, D., **Ritz, H.**, & Shenhav, A.
-  <br>
-  [[preprint](https://www.biorxiv.org/content/10.1101/2020.09.11.294157v1.abstract)]
-  
+
 - **Parametric cognitive load reveals hidden costs in the neural processing of perfectly intelligible degraded speech**
   <br>
   **Ritz, H.**, Wild, C., & Johnsrude, I.
   <br>
-  [[preprint](https://www.biorxiv.org/content/10.1101/2020.10.02.324509v2.abstract)]
+  [[preprint](https://doi.org/10.1101/2020.10.02.324509)]
  
 
 <br>
 
 
-## Conference Proceedings 
+## Conference Proceedings & Extended Abstracts 
 
 - **An evidence accumulation model of motivational and developmental influences over sustained attention**
   <br>
@@ -92,11 +99,13 @@ In 2022 I'll start my C.V. Starr Postdoctoral Fellowship with Jonathan Cohen and
   <br>
   42nd Annual Meeting of the Cognitive Science Society [[PDF](./assets/papers/Ritz et al. - An evidence accumulation model of motivational and developmental influences over sustained attention.pdf)]
 
+
 - **Dissociable influences of reward and punishment on adaptive cognitive control**
   <br>
   Leng, X., **Ritz, H.**, Yee, D., & Shenhav, A. (2020)
   <br>
   42nd Annual Meeting of the Cognitive Science Society
+
 
 - **Parametric control of distractor-oriented attention**
   <br>
@@ -104,12 +113,14 @@ In 2022 I'll start my C.V. Starr Postdoctoral Fellowship with Jonathan Cohen and
   <br>
   41st Annual Meeting of the Cognitive Science Society
   
+
 - **Decisions about reward and effort for the learning and control of dynamical systems**
   <br>
   **Ritz, H.**, Nassar, M.R., Frank, M.J., & Shenhav, A. (2019)
   <br>
   4th Multidisciplinary Conference on Reinforcement Learning and Decision Making
   
+
 - **Behavioral evidence for PID-like feedback control**
   <br>
   **Ritz, H.**, Nassar, M.R., Frank, M.J., & Shenhav, A. (2017)
