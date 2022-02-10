@@ -29,14 +29,14 @@ In 2022 I'll start my C.V. Starr Postdoctoral Fellowship with [Jonathan Cohen](h
 
 - **Cognitive control as a multivariate optimization problem**
   <br>
-  **Ritz, H.**, Leng, X., & Shenhav, A.
+  **Ritz, H.**, Leng, X., & Shenhav, A. (2022)
   <br>
   *Journal of Cognitive Neuroscience* [[PDF](./assets/papers/Ritz et al. 2022 - Cognitive Control as a Multivariate Optimization Problem.pdf)]
 
 
 - **Dissociable influences of reward and punishment on adaptive cognitive control**
   <br>
-  Leng, X., Lee, D., **Ritz, H.**, & Shenhav, A.
+  Leng, X., Lee, D., **Ritz, H.**, & Shenhav, A. (2021)
   <br>
   *PLOS Computational Biology* [[PDF](./assets/papers/Leng et al. - Dissociable influences of reward and punishment on adaptive cognitive control.pdf)]
 
