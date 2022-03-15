@@ -27,6 +27,13 @@ In 2022 I'll start my C.V. Starr Postdoctoral Fellowship at Princeton University
 ## Publications
 
 
+- **Parametric cognitive load reveals hidden costs in the neural processing of perfectly intelligible degraded speech**
+  <br>
+  **Ritz, H.**, Wild, C., & Johnsrude, I. (In Press)
+  <br>
+  *Journal of Neuroscience* [[preprint](https://doi.org/10.1101/2020.10.02.324509)]
+
+
 - **Cognitive control as a multivariate optimization problem**
   <br>
   **Ritz, H.**, Leng, X., & Shenhav, A. (2022)
@@ -81,11 +88,6 @@ In 2022 I'll start my C.V. Starr Postdoctoral Fellowship at Princeton University
   [[preprint](https://doi.org/10.1101/723072)]
   
 
-- **Parametric cognitive load reveals hidden costs in the neural processing of perfectly intelligible degraded speech**
-  <br>
-  **Ritz, H.**, Wild, C., & Johnsrude, I.
-  <br>
-  [[preprint](https://doi.org/10.1101/2020.10.02.324509)]
  
 
 <br>
