@@ -27,6 +27,15 @@ In 2022 I'll start my C.V. Starr Postdoctoral Fellowship at Princeton University
 ## Publications
 
 
+#### 2022
+
+- **Humans can navigate complex graph structures acquired during latent learning**
+  <br>
+  Rmus, M., **Ritz, H.**, Hunter, L.E., Bornstein, A.M., & Shenhav, A. (In Press)
+  <br>
+  *Cognition* [[preprint](https://doi.org/10.1101/723072)]
+
+
 - **Parametric cognitive load reveals hidden costs in the neural processing of perfectly intelligible degraded speech**
   <br>
   **Ritz, H.**, Wild, C., & Johnsrude, I. (In Press)
@@ -40,6 +49,8 @@ In 2022 I'll start my C.V. Starr Postdoctoral Fellowship at Princeton University
   <br>
   *Journal of Cognitive Neuroscience* [[PDF](./assets/papers/Ritz et al. 2022 - Cognitive Control as a Multivariate Optimization Problem.pdf)]
 
+
+#### 2018 - 2021
 
 - **Dissociable influences of reward and punishment on adaptive cognitive control**
   <br>
@@ -79,14 +90,6 @@ In 2022 I'll start my C.V. Starr Postdoctoral Fellowship at Princeton University
   **Ritz, H.** & Shenhav, A.
   <br>
   [[preprint](https://doi.org/10.1101/2021.09.08.459546)]
-
-
-- **Humans can navigate complex graph structures acquired during latent learning**
-  <br>
-  Rmus, M., **Ritz, H.**, Hunter, L.E., Bornstein, A.M., & Shenhav, A.
-  <br>
-  [[preprint](https://doi.org/10.1101/723072)]
-  
 
  
 
