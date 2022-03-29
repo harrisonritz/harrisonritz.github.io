@@ -27,7 +27,7 @@ In 2022 I'll start my C.V. Starr Postdoctoral Fellowship at Princeton University
 ## Publications
 
 
-#### 2022
+### 2022
 
 - **Humans can navigate complex graph structures acquired during latent learning**
   <br>
@@ -50,7 +50,7 @@ In 2022 I'll start my C.V. Starr Postdoctoral Fellowship at Princeton University
   *Journal of Cognitive Neuroscience* [[PDF](./assets/papers/Ritz et al. 2022 - Cognitive Control as a Multivariate Optimization Problem.pdf)]
 
 
-#### 2018 - 2021
+### 2018 - 2021
 
 - **Dissociable influences of reward and punishment on adaptive cognitive control**
   <br>
