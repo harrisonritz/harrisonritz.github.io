@@ -29,18 +29,18 @@ In 2022 I'll start my C.V. Starr Postdoctoral Fellowship at Princeton University
 
 ### 2022
 
-- **Humans can navigate complex graph structures acquired during latent learning**
-  <br>
-  Rmus, M., **Ritz, H.**, Hunter, L.E., Bornstein, A.M., & Shenhav, A. (In Press)
-  <br>
-  *Cognition* [[preprint](https://doi.org/10.1101/723072)]
-
-
 - **Parametric cognitive load reveals hidden costs in the neural processing of perfectly intelligible degraded speech**
   <br>
   **Ritz, H.**, Wild, C., & Johnsrude, I. (In Press)
   <br>
   *Journal of Neuroscience* [[preprint](https://doi.org/10.1101/2020.10.02.324509)]
+
+
+- **Humans can navigate complex graph structures acquired during latent learning**
+  <br>
+  Rmus, M., **Ritz, H.**, Hunter, L.E., Bornstein, A.M., & Shenhav, A. (2022)
+  <br>
+  *Cognition* [[PDF](./assets/papers/Rmus et al. 2022 - Humans can navigate complex graph structures acquired during latent learning.pdf)]
 
 
 - **Cognitive control as a multivariate optimization problem**
