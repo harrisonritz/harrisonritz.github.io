@@ -33,7 +33,7 @@ In 2022 I'll start my C.V. Starr Postdoctoral Fellowship at Princeton University
   <br>
   **Ritz, H.**, Wild, C., & Johnsrude, I. (In Press)
   <br>
-  *Journal of Neuroscience* [[preprint](https://doi.org/10.1101/2020.10.02.324509)]
+  *Journal of Neuroscience* [[article](https://www.jneurosci.org/content/early/2022/04/26/JNEUROSCI.1777-21.2022)]
 
 
 - **Humans can navigate complex graph structures acquired during latent learning**
