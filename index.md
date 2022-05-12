@@ -54,7 +54,7 @@ In 2022 I'll start my C.V. Starr Postdoctoral Fellowship at Princeton University
 
 - **Dissociable influences of reward and punishment on adaptive cognitive control**
   <br>
-  Leng, X., Lee, D., **Ritz, H.**, & Shenhav, A. (2021)
+  Leng, X., Yee, D., **Ritz, H.**, & Shenhav, A. (2021)
   <br>
   *PLOS Computational Biology* [[PDF](./assets/papers/Leng et al. - Dissociable influences of reward and punishment on adaptive cognitive control.pdf)]
 
