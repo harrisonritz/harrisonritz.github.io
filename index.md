@@ -5,7 +5,7 @@ layout: homepage
 ## About
 I try to understand how humans and other animals achieve their goals through planning and hard work, often from the perspective of control theory.
 <br><br>
-I'm currently a PhD candidate at Brown University with [Amitai Shenhav](https://www.shenhavlab.org/) and [Michael J. Frank](https://www.lnccbrown.com/), and an honorary lab member with [Matthew Nassar](https://sites.brown.edu/mattlab/).
+I completed my PhD at Brown University with [Amitai Shenhav](https://www.shenhavlab.org/) and [Michael J. Frank](https://www.lnccbrown.com/), and as an honorary lab member with [Matthew Nassar](https://sites.brown.edu/mattlab/).
 <br><br>
 In 2022 I'll start my C.V. Starr Postdoctoral Fellowship at Princeton University with [Jonathan Cohen](https://ncclab.princeton.edu/) and [Nathaniel Daw](https://dawlab.princeton.edu/).
 <br><br>
@@ -16,7 +16,7 @@ In 2022 I'll start my C.V. Starr Postdoctoral Fellowship at Princeton University
 
 
 ## Education
-- **Brown University** - PhD in Psychology (2016 - Current)
+- **Brown University** - PhD in Psychology (2016 - 2022)
 - **University of Western Ontario** - MSc in Psychology (2014 - 2016)
 - **Queen’s University** - BSc in Psychology (2010 - 2014)
 
