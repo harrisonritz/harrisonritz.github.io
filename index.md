@@ -7,7 +7,7 @@ I try to understand how humans and other animals achieve their goals through pla
 <br><br>
 I completed my PhD at Brown University with [Amitai Shenhav](https://www.shenhavlab.org/) and [Michael J. Frank](https://www.lnccbrown.com/), and as an honorary lab member with [Matthew Nassar](https://sites.brown.edu/mattlab/).
 <br><br>
-In 2022 I'll start my C.V. Starr Postdoctoral Fellowship at Princeton University with [Jonathan Cohen](https://ncclab.princeton.edu/) and [Nathaniel Daw](https://dawlab.princeton.edu/).
+In July 2022 I'll start my C.V. Starr Postdoctoral Fellowship at Princeton University with [Jonathan Cohen](https://ncclab.princeton.edu/) and [Nathaniel Daw](https://dawlab.princeton.edu/).
 <br><br>
 [[Curriculum Vitae](./assets/CV/hritz_CV.pdf)]
 
