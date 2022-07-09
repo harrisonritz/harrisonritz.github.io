@@ -15,6 +15,13 @@ I am currently a C.V. Starr Postdoctoral Fellow at the Princeton Neuroscience In
 <br>
 
 
+## Academic Appointments
+- **Princeton University** - C.V. Starr Postdoctoral Fellow (2022 - current)
+
+
+<br>
+
+
 ## Education
 - **Brown University** - PhD in Psychology (2016 - 2022)
 - **University of Western Ontario** - MSc in Psychology (2014 - 2016)
