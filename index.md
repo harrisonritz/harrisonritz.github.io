@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About
-I try to understand how humans and other animals achieve their goals through planning and hard work, often from the perspective of control theory.
+I try to understand how humans and other animals achieve their goals through planning and hard work, often from the perspective of control theory, using computational modelling and neuroimaging.
 <br><br>
 I completed my MSc at University of Western Ontario with [Ingrid Johnsrude](https://sites.google.com/site/johnsrudeconchlab/home), and my PhD at Brown University with [Amitai Shenhav](https://www.shenhavlab.org/), [Michael J. Frank](https://www.lnccbrown.com/), and as an honorary lab member with [Matthew Nassar](https://sites.brown.edu/mattlab/).
 <br><br>
