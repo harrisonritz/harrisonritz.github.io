@@ -107,7 +107,7 @@ I am currently a C.V. Starr Postdoctoral Fellow at the Princeton Neuroscience In
 
 - **Orthogonal neural encoding of targets and distractors supports cognitive control**
   <br>
-  Ritz, H. & Shenhav, A. (2022)
+  **Ritz, H.** & Shenhav, A. (2022)
   <br>
   Cognitive Computational Neuroscience
 
