@@ -103,7 +103,13 @@ I am currently a C.V. Starr Postdoctoral Fellow at the Princeton Neuroscience In
 <br>
 
 
-## Conference Proceedings & Extended Abstracts 
+## Conference Proceedings & Extended Abstracts
+
+- **Orthogonal neural encoding of targets and distractors supports cognitive control**
+  <br>
+  Ritz, H. & Shenhav, A. (2022)
+  <br>
+  Cognitive Computational Neuroscience
 
 - **An evidence accumulation model of motivational and developmental influences over sustained attention**
   <br>
