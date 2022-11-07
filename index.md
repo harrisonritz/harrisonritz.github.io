@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About
-I use computational modeling and neuroimaging to understand how humans and other animals achieve their goals through planning and hard work, often from the perspective of control theory.
+I use behavioral experiemnts, neuroimaging, and computational modeling to understand how humans and other animals achieve their goals through planning and hard work, often from the perspective of control theory.
 <br><br>
 I completed my MSc at University of Western Ontario with [Ingrid Johnsrude](https://sites.google.com/site/johnsrudeconchlab/home) and my PhD at Brown University with [Amitai Shenhav](https://www.shenhavlab.org/), [Michael J. Frank](https://www.lnccbrown.com/), and [Matthew Nassar](https://sites.brown.edu/mattlab/) (honorary).
 <br><br>
@@ -38,7 +38,7 @@ I am currently a C.V. Starr Postdoctoral Fellow at the Princeton Neuroscience In
 
 - **Parametric cognitive load reveals hidden costs in the neural processing of perfectly intelligible degraded speech**
   <br>
-  **Ritz, H.**, Wild, C., & Johnsrude, I. (In Press)
+  **Ritz, H.**, Wild, C., & Johnsrude, I. (2022)
   <br>
   *Journal of Neuroscience* [[PDF](./assets/papers/Ritz et al. 2022 - Parametric Cognitive Load Reveals Hidden Costs in the Neural Processing of Perfectly Intelligible Degraded Speech.pdf)]
 
