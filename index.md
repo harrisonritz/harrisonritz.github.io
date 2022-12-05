@@ -5,9 +5,9 @@ layout: homepage
 ## About
 I'm interested in how humans and other animals achieve their goals through planning and hard work, often from the perspective of (optimal) control theory. 
 <br><br> 
-My reserach uses behavioral experiments (e.g., psychophysics, model-based planning), neuroimaging (e.g., fMRI, iEEG/ephys collaborations, [soon] OP-MEG), and computational modelling (e.g., evidence accumulation, dynamical systems, inverse optimal control) to triangulate how we control our thoughts and actions.
+My reserach uses behavioral experiments (e.g., psychophysics, model-based planning), neuroimaging (e.g., fMRI, iEEG/ephys collaborations, OP-MEG [soon]), and computational modelling (e.g., evidence accumulation, dynamical systems, inverse optimal control) to triangulate how we control our thoughts and actions.
 <br><br>
-I completed my MSc at University of Western Ontario with [Ingrid Johnsrude](https://sites.google.com/site/johnsrudeconchlab/home) and my PhD at Brown University with [Amitai Shenhav](https://www.shenhavlab.org/), [Michael J. Frank](https://www.lnccbrown.com/), and [Matthew Nassar](https://sites.brown.edu/mattlab/) (honorary).
+I completed my MSc at University of Western Ontario with [Ingrid Johnsrude](https://sites.google.com/site/johnsrudeconchlab/home) and my PhD at Brown University with [Amitai Shenhav](https://www.shenhavlab.org/), [Michael J. Frank](https://www.lnccbrown.com/), and [Matthew Nassar](https://sites.brown.edu/mattlab/) (hon).
 <br><br>
 I am currently a C.V. Starr Postdoctoral Fellow at the Princeton Neuroscience Institute with [Jonathan Cohen](https://ncclab.princeton.edu/) and [Nathaniel Daw](https://dawlab.princeton.edu/).
 <br><br>
