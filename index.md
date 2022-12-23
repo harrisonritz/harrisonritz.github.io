@@ -100,6 +100,7 @@ I am currently a C.V. Starr Postdoctoral Fellow at the Princeton Neuroscience In
   **Ritz, H.** & Shenhav, A.
   <br>
   [[preprint](https://doi.org/10.1101/2022.12.01.518771)]
+  Featured on the [[Sensorimotor Superlab Reading List](https://superlab.ca/readinglist/list189.html)]!
 
 
 
