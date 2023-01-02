@@ -5,7 +5,7 @@ layout: homepage
 ## About
 I'm interested in how humans and other animals achieve their goals through planning and hard work, often from the perspective of (optimal) control theory. 
 <br><br> 
-My reserach uses behavioral experiments (e.g., psychophysics, model-based planning), neuroimaging (e.g., fMRI, iEEG/ephys collaborations, OP-MEG [soon]), and computational modelling (e.g., evidence accumulation, dynamical systems, inverse optimal control) to triangulate how we control our thoughts and actions.
+My reserach uses behavioral experiments (e.g., psychophysics, model-based planning), neuroscience (e.g., fMRI, OP-MEG, iEEG/ephys collaborations), and computational modelling (e.g., evidence accumulation, dynamical systems, inverse optimal control) to triangulate how we control our thoughts and actions.
 <br><br>
 I completed my MSc at University of Western Ontario with [Ingrid Johnsrude](https://sites.google.com/site/johnsrudeconchlab/home) and my PhD at Brown University with [Amitai Shenhav](https://www.shenhavlab.org/), [Michael J. Frank](https://www.lnccbrown.com/), and [Matthew Nassar](https://sites.brown.edu/mattlab/) (hon).
 <br><br>
@@ -94,13 +94,18 @@ I am currently a C.V. Starr Postdoctoral Fellow at the Princeton Neuroscience In
 
 ## Preprints
 
+- **Test-Retest Reliability of the Human Connectome: An OPM-MEG study**
+  <br>
+  Rier, L., Michelmann, S., **Ritz, H.**, Shah, V., Hill, R.M., Osborne, J., Doyle, C., Holmes, N., Bowtell, R., Brookes, M.J., Norman, K.A., Hasson, U., Cohen, J.D., Boto, E.
+  <br>
+  [[preprint](https://doi.org/10.1101/2022.12.21.521184)] [[dataset](https://doi.org/10.5281/zenodo.7477061)]
+
 
 - **Orthogonal neural encoding of targets and distractors supports multivariate cognitive control**
   <br>
   **Ritz, H.** & Shenhav, A.
   <br>
   [[preprint](https://doi.org/10.1101/2022.12.01.518771)] Featured on the [Sensorimotor Superlab Reading List](https://superlab.ca/readinglist/list189.html).
-
 
 
 - **Humans reconfigure target and distractor processing to address distinct task demands**
@@ -121,6 +126,7 @@ I am currently a C.V. Starr Postdoctoral Fellow at the Princeton Neuroscience In
   **Ritz, H.** & Shenhav, A. (2022)
   <br>
   Cognitive Computational Neuroscience 2022
+
 
 - **An evidence accumulation model of motivational and developmental influences over sustained attention**
   <br>
