@@ -25,7 +25,7 @@ I am currently a C.V. Starr Postdoctoral Fellow at the Princeton Neuroscience In
 
 
 ## Education
-- **Brown University** - PhD in Psychology (2016 - 2022)
+- **Brown University** - PhD in Psychology (2016 - 2022) [[Précis](./assets/papers/Ritz_PhD_Precis.pdf)]
 - **University of Western Ontario** - MSc in Psychology (2014 - 2016)
 - **Queen’s University** - BSc in Psychology (2010 - 2014)
 
