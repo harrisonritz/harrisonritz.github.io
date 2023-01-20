@@ -96,7 +96,7 @@ I am currently a C.V. Starr Postdoctoral Fellow at the Princeton Neuroscience In
 
 - **Phantom controllers: Misspecified models create the false appearance of adaptive control during value-based choice**
   <br>
-  **Ritz, H.***, Frömer, R.*, & Shenhav, A.
+  **Ritz, H.+**, Frömer, R.+, & Shenhav, A. (+ equal)
   <br>
   [[preprint](https://doi.org/10.1101/2023.01.18.524640)] 
 
