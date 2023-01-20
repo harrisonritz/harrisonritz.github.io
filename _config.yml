@@ -7,10 +7,10 @@ keywords: Harrison Ritz
 google_scholar: https://scholar.google.com/citations?user=2MGy7zwAAAAJ
 twitter: https://twitter.com/harrison_ritz
 github_link: https://github.com/harrisonritz
-avatar: ./assets/img/HarrisonRitz.png
+avatar: ./assets/img/HarrisonRitz.jpg
 google_analytics: UA-31678746-1
-favicon: ./assets/img/HarrisonRitz.png
-favicon_dark: ./assets/img/HarrisonRitz.png
+favicon: ./assets/img/HarrisonRitz.jpg
+favicon_dark: ./assets/img/HarrisonRitz.jpg
 description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
 canonical: https://harrisonritz.github.io
 remote_theme: yaoyao-liu/minimal-light
