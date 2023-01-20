@@ -94,6 +94,12 @@ I am currently a C.V. Starr Postdoctoral Fellow at the Princeton Neuroscience In
 
 ## Preprints
 
+- **Phantom controllers: Misspecified models create the false appearance of adaptive control during value-based choice**
+  <br>
+  **Ritz, H.***, Frömer, R.*, & Shenhav, A.
+  <br>
+  [[preprint](https://doi.org/10.1101/2023.01.18.524640)] 
+
 - **Test-Retest Reliability of the Human Connectome: An OPM-MEG study**
   <br>
   Rier, L., Michelmann, S., **Ritz, H.**, Shah, V., Hill, R.M., Osborne, J., Doyle, C., Holmes, N., Bowtell, R., Brookes, M.J., Norman, K.A., Hasson, U., Cohen, J.D., Boto, E.
