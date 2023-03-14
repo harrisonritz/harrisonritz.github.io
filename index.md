@@ -5,29 +5,13 @@ layout: homepage
 ## About
 I'm interested in how humans and other animals achieve their goals through planning and hard work, often from the perspective of (optimal) control theory. 
 <br><br> 
-My research uses behavioral experiments (e.g., psychophysics, model-based planning), neuroscience (e.g., fMRI, OP-MEG, iEEG/ephys collaborations), and computational modelling (e.g., evidence accumulation, dynamical systems, inverse optimal control) to triangulate how we control our thoughts and actions.
+My research uses behavioral experiments (e.g., psychophysics, naturalistic planning), neuroscience (e.g., fMRI, OP-MEG, collaborations with iEEG/ephys), and computational modelling (e.g., evidence accumulation, dynamical systems, inverse optimal control) to triangulate how we control our thoughts and actions.
 <br><br>
-I completed my MSc at University of Western Ontario with [Ingrid Johnsrude](https://sites.google.com/site/johnsrudeconchlab/home) and my PhD at Brown University with [Amitai Shenhav](https://www.shenhavlab.org/), [Michael J. Frank](https://www.lnccbrown.com/), and [Matthew Nassar](https://sites.brown.edu/mattlab/) (hon).
+I completed my MSc at University of Western Ontario with [Ingrid Johnsrude](https://sites.google.com/site/johnsrudeconchlab/home) and my PhD at Brown University with [Amitai Shenhav](https://www.shenhavlab.org/), [Michael J. Frank](https://www.lnccbrown.com/), and honorarily with [Matthew Nassar](https://sites.brown.edu/mattlab/) [[PhD Précis](./assets/papers/Ritz_PhD_Precis.pdf)].
 <br><br>
-I am currently a C.V. Starr Postdoctoral Fellow at the Princeton Neuroscience Institute with [Jonathan Cohen](https://ncclab.princeton.edu/) and [Nathaniel Daw](https://dawlab.princeton.edu/).
+I am currently a C.V. Starr Associate Research Scholar at the Princeton Neuroscience Institute with [Jonathan Cohen](https://ncclab.princeton.edu/) and [Nathaniel Daw](https://dawlab.princeton.edu/).
 <br><br>
 [[Curriculum Vitae](./assets/CV/hritz_CV.pdf)]
-
-
-<br>
-
-
-## Academic Appointments
-- **Princeton University** - C.V. Starr Postdoctoral Fellow (2022 - current)
-
-
-<br>
-
-
-## Education
-- **Brown University** - PhD in Psychology (2016 - 2022) [[Précis](./assets/papers/Ritz_PhD_Precis.pdf)]
-- **University of Western Ontario** - MSc in Psychology (2014 - 2016)
-- **Queen’s University** - BSc in Psychology (2010 - 2014)
 
 
 <br>
