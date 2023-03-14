@@ -4,16 +4,12 @@ layout: homepage
 <br>
 ### I'm interested in how we achieve our goals through planning and cognitive control, usually from the perspective of (optimal) control theory.
 
-My research uses behavioral experiments (e.g., psychophysics, naturalistic planning), neuroscience (e.g., fMRI, OP-MEG, collaborations with iEEG/ephys), and computational modelling (e.g., evidence accumulation, dynamical systems, inverse optimal control) to triangulate how we control our thoughts and actions.
+My research uses behavioral experiments (e.g., psychophysics, naturalistic planning), neuroscience (e.g., fMRI, OP-MEG, collaborations with iEEG/ephys), and computational modelling (e.g., evidence accumulation, dynamical systems, inverse optimal control) to triangulate how we control our thoughts and actions. [[Curriculum Vitae](./assets/CV/hritz_CV.pdf)]
 <br><br>
-I completed my MSc at University of Western Ontario with [Ingrid Johnsrude](https://sites.google.com/site/johnsrudeconchlab/home). During my PhD I worked with at Brown University with [Amitai Shenhav](https://www.shenhavlab.org/), [Michael J. Frank](https://www.lnccbrown.com/), and [Matthew Nassar](https://sites.brown.edu/mattlab/) [[PhD Précis](./assets/papers/Ritz_PhD_Precis.pdf)].
+I completed by BSc at Queen's University and my MSc at University of Western Ontario, working with [Ingrid Johnsrude](https://sites.google.com/site/johnsrudeconchlab/home). During my PhD at Brown University I worked with [Amitai Shenhav](https://www.shenhavlab.org/), [Michael J. Frank](https://www.lnccbrown.com/), and [Matthew Nassar](https://sites.brown.edu/mattlab/) [[PhD Précis](./assets/papers/Ritz_PhD_Precis.pdf)].
 <br><br>
-I am currently a C.V. Starr Associate Research Scholar at the Princeton Neuroscience Institute with [Jonathan Cohen](https://ncclab.princeton.edu/) and [Nathaniel Daw](https://dawlab.princeton.edu/).
+I am currently a C.V. Starr Associate Research Scholar at the Princeton Neuroscience Institute, working with [Jonathan Cohen](https://ncclab.princeton.edu/) and [Nathaniel Daw](https://dawlab.princeton.edu/).
 <br><br>
-[[Curriculum Vitae](./assets/CV/hritz_CV.pdf)]
-
-
-<br>
 
 
 ## Publications
