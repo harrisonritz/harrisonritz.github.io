@@ -106,46 +106,60 @@ I am currently a C.V. Starr Associate Research Scholar at the Princeton Neurosci
 
 ## Conference Proceedings & Extended Abstracts
 
+- **Task preparation is reflected in neural state space dynamics**
+  <br>
+  **Ritz, H.**, Jha, A., Pillow, J., & Cohen J.D. (2023) [[PDF](./assets/papers/2023_CCN.pdf)]
+  <br>
+  Cognitive Computational Neuroscience
+
+
+- **Continuous and Discrete Transitions during Task-Switching**
+  <br>
+  **Ritz, H.**, Wolf, W., & Cohen J.D. (2023)
+  <br>
+  Annual Meeting of the Cognitive Science Society [[PDF](./assets/papers/2023_CogSci.pdf)]
+
+
 - **Orthogonal neural encoding of targets and distractors supports cognitive control**
   <br>
   **Ritz, H.** & Shenhav, A. (2022)
   <br>
-  Cognitive Computational Neuroscience 2022
+  Cognitive Computational Neuroscience
 
 
 - **An evidence accumulation model of motivational and developmental influences over sustained attention**
   <br>
   **Ritz, H.**, DeGutis, J., Frank M.J., Esterman, M., & Shenhav, A. (2020)
   <br>
-  42nd Annual Meeting of the Cognitive Science Society [[PDF](./assets/papers/Ritz et al. - An evidence accumulation model of motivational and developmental influences over sustained attention.pdf)]
+  Annual Meeting of the Cognitive Science Society [[PDF](./assets/papers/Ritz et al. - An evidence accumulation model of motivational and developmental influences over sustained attention.pdf)]
 
 
 - **Dissociable influences of reward and punishment on adaptive cognitive control**
   <br>
   Leng, X., **Ritz, H.**, Yee, D., & Shenhav, A. (2020)
   <br>
-  42nd Annual Meeting of the Cognitive Science Society
+  Annual Meeting of the Cognitive Science Society
 
 
 - **Parametric control of distractor-oriented attention**
   <br>
   **Ritz, H.** & Shenhav, A. (2019)
   <br>
-  41st Annual Meeting of the Cognitive Science Society
+  Annual Meeting of the Cognitive Science Society
   
 
 - **Decisions about reward and effort for the learning and control of dynamical systems**
   <br>
   **Ritz, H.**, Nassar, M.R., Frank, M.J., & Shenhav, A. (2019)
   <br>
-  4th Multidisciplinary Conference on Reinforcement Learning and Decision Making
+  Multidisciplinary Conference on Reinforcement Learning and Decision Making
   
 
 - **Behavioral evidence for PID-like feedback control**
   <br>
   **Ritz, H.**, Nassar, M.R., Frank, M.J., & Shenhav, A. (2017)
   <br>
-  3rd Multidisciplinary Conference on Reinforcement Learning and Decision Making
+  Multidisciplinary Conference on Reinforcement Learning and Decision Making
 
 
 <br>
