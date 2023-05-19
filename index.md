@@ -26,21 +26,21 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   <br>
   **Ritz, H.**, Wild, C., & Johnsrude, I. (2022)
   <br>
-  *Journal of Neuroscience* [[PDF](./assets/papers/Ritz et al. 2022 - Parametric Cognitive Load Reveals Hidden Costs in the Neural Processing of Perfectly Intelligible Degraded Speech.pdf)]
+  Journal of Neuroscience [[PDF](./assets/papers/Ritz et al. 2022 - Parametric Cognitive Load Reveals Hidden Costs in the Neural Processing of Perfectly Intelligible Degraded Speech.pdf)]
 
 
 - **Humans can navigate complex graph structures acquired during latent learning**
   <br>
   Rmus, M., **Ritz, H.**, Hunter, L.E., Bornstein, A.M., & Shenhav, A. (2022)
   <br>
-  *Cognition* [[PDF](./assets/papers/Rmus et al. 2022 - Humans can navigate complex graph structures acquired during latent learning.pdf)]
+  Cognition [[PDF](./assets/papers/Rmus et al. 2022 - Humans can navigate complex graph structures acquired during latent learning.pdf)]
 
 
 - **Cognitive control as a multivariate optimization problem**
   <br>
   **Ritz, H.**, Leng, X., & Shenhav, A. (2022)
   <br>
-  *Journal of Cognitive Neuroscience* [[PDF](./assets/papers/Ritz et al. 2022 - Cognitive Control as a Multivariate Optimization Problem.pdf)]
+  Journal of Cognitive Neuroscience [[PDF](./assets/papers/Ritz et al. 2022 - Cognitive Control as a Multivariate Optimization Problem.pdf)]
 
 
 ### 2018 - 2021
@@ -49,28 +49,28 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   <br>
   Leng, X., Yee, D., **Ritz, H.**, & Shenhav, A. (2021)
   <br>
-  *PLOS Computational Biology* [[PDF](./assets/papers/Leng et al. - Dissociable influences of reward and punishment on adaptive cognitive control.pdf)]
+  PLOS Computational Biology [[PDF](./assets/papers/Leng et al. - Dissociable influences of reward and punishment on adaptive cognitive control.pdf)]
 
 
 - **Bridging motor and cognitive control: It’s about time! (Spotlight)**
   <br>
   **Ritz, H.**, Frömer, R. & Shenhav, A. (2020)
   <br>
-  *Trends in Cognitive Sciences* [[PDF](./assets/papers/Ritz et al. 2020 - Bridging Motor and Cognitive Control - It's About Time!.pdf)]
+  Trends in Cognitive Sciences [[PDF](./assets/papers/Ritz et al. 2020 - Bridging Motor and Cognitive Control - It's About Time!.pdf)]
 
 
 - **Dissociable forms of uncertainty-driven representational change across the human brain**
   <br>
   Nassar, M.R., McGuire, J.T., **Ritz, H.**, & Kable, J. (2019)
   <br>
-  *Journal of Neuroscience* [[PDF](./assets/papers/Nassar et al. 2019 - Dissociable Forms of Uncertainty-Driven Representational Change Across the Human Brain.pdf)]
+  Journal of Neuroscience [[PDF](./assets/papers/Nassar et al. 2019 - Dissociable Forms of Uncertainty-Driven Representational Change Across the Human Brain.pdf)]
 
 
 - **A control theoretic model of adaptive behavior in dynamic environments**
   <br>
   **Ritz, H.**, Nassar, M.R., Frank, M.J., & Shenhav, A. (2018)
   <br>
-  *Journal of Cognitive Neuroscience* [[PDF](./assets/papers/Ritz et al. 2018 - A Control Theoretic Model of Adaptive Learning in Dynamic Environments.pdf)]
+  Journal of Cognitive Neuroscience [[PDF](./assets/papers/Ritz et al. 2018 - A Control Theoretic Model of Adaptive Learning in Dynamic Environments.pdf)]
 
 
 <br>
@@ -125,56 +125,56 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   <br>
   **Ritz, H.**, Jha, A., Pillow, J., & Cohen J.D. (2023) 
   <br>
-  *Cognitive Computational Neuroscience* [[PDF](./assets/papers/2023_CCN.pdf)]
+  Cognitive Computational Neuroscience [[PDF](./assets/papers/2023_CCN.pdf)]
 
 
 - **Continuous and Discrete Transitions during Task-Switching**
   <br>
   **Ritz, H.**, Wolf, W., & Cohen J.D. (2023)
   <br>
-  *Annual Meeting of the Cognitive Science Society* [[PDF](./assets/papers/2023_CogSci.pdf)]
+  Annual Meeting of the Cognitive Science Society [[PDF](./assets/papers/2023_CogSci.pdf)]
 
 
 - **Orthogonal neural encoding of targets and distractors supports cognitive control**
   <br>
   **Ritz, H.** & Shenhav, A. (2022)
   <br>
-  *Cognitive Computational Neuroscience*
+  Cognitive Computational Neuroscience
 
 
 - **An evidence accumulation model of motivational and developmental influences over sustained attention**
   <br>
   **Ritz, H.**, DeGutis, J., Frank M.J., Esterman, M., & Shenhav, A. (2020)
   <br>
-  *Annual Meeting of the Cognitive Science Society* [[PDF](./assets/papers/Ritz et al. - An evidence accumulation model of motivational and developmental influences over sustained attention.pdf)]
+  Annual Meeting of the Cognitive Science Society [[PDF](./assets/papers/Ritz et al. - An evidence accumulation model of motivational and developmental influences over sustained attention.pdf)]
 
 
 - **Dissociable influences of reward and punishment on adaptive cognitive control**
   <br>
   Leng, X., **Ritz, H.**, Yee, D., & Shenhav, A. (2020)
   <br>
-  *Annual Meeting of the Cognitive Science Society*
+  Annual Meeting of the Cognitive Science Society
 
 
 - **Parametric control of distractor-oriented attention**
   <br>
   **Ritz, H.** & Shenhav, A. (2019)
   <br>
-  _Annual Meeting of the Cognitive Science Society_
+  Annual Meeting of the Cognitive Science Society
   
 
 - **Decisions about reward and effort for the learning and control of dynamical systems**
   <br>
   **Ritz, H.**, Nassar, M.R., Frank, M.J., & Shenhav, A. (2019)
   <br>
-  *Multidisciplinary Conference on Reinforcement Learning and Decision Making*
+  Multidisciplinary Conference on Reinforcement Learning and Decision Making
   
 
 - **Behavioral evidence for PID-like feedback control**
   <br>
   **Ritz, H.**, Nassar, M.R., Frank, M.J., & Shenhav, A. (2017)
   <br>
-  *Multidisciplinary Conference on Reinforcement Learning and Decision Making*
+  Multidisciplinary Conference on Reinforcement Learning and Decision Making
 
 
 <br>
