@@ -12,6 +12,11 @@ I am currently a C.V. Starr Associate Research Scholar at the Princeton Neurosci
 <br><br>
 
 
+
+
+
+
+
 ## Publications
 
 
@@ -71,6 +76,11 @@ I am currently a C.V. Starr Associate Research Scholar at the Princeton Neurosci
 <br>
 
 
+
+
+
+
+
 ## Preprints
 
 - **Phantom controllers: Misspecified models create the false appearance of adaptive control during value-based choice**
@@ -104,13 +114,18 @@ I am currently a C.V. Starr Associate Research Scholar at the Princeton Neurosci
 <br>
 
 
+
+
+
+
+
 ## Conference Proceedings & Extended Abstracts
 
 - **Task preparation is reflected in neural state space dynamics**
   <br>
-  **Ritz, H.**, Jha, A., Pillow, J., & Cohen J.D. (2023) [[PDF](./assets/papers/2023_CCN.pdf)]
+  **Ritz, H.**, Jha, A., Pillow, J., & Cohen J.D. (2023) 
   <br>
-  Cognitive Computational Neuroscience
+  Cognitive Computational Neuroscience [[PDF](./assets/papers/2023_CCN.pdf)]
 
 
 - **Continuous and Discrete Transitions during Task-Switching**
