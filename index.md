@@ -132,7 +132,7 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   <br>
   **Ritz, H.**, Wolf, W., & Cohen J.D. (2023)
   <br>
-  Annual Meeting of the Cognitive Science Society [[PDF](./assets/papers/2023_CogSci.pdf)]
+  Cognitive Science Society [[PDF](./assets/papers/2023_CogSci.pdf)]
 
 
 - **Orthogonal neural encoding of targets and distractors supports cognitive control**
@@ -146,35 +146,35 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   <br>
   **Ritz, H.**, DeGutis, J., Frank M.J., Esterman, M., & Shenhav, A. (2020)
   <br>
-  Annual Meeting of the Cognitive Science Society [[PDF](./assets/papers/Ritz et al. - An evidence accumulation model of motivational and developmental influences over sustained attention.pdf)]
+  Cognitive Science Society [[PDF](./assets/papers/Ritz et al. - An evidence accumulation model of motivational and developmental influences over sustained attention.pdf)]
 
 
 - **Dissociable influences of reward and punishment on adaptive cognitive control**
   <br>
   Leng, X., **Ritz, H.**, Yee, D., & Shenhav, A. (2020)
   <br>
-  Annual Meeting of the Cognitive Science Society
+  Cognitive Science Society
 
 
 - **Parametric control of distractor-oriented attention**
   <br>
   **Ritz, H.** & Shenhav, A. (2019)
   <br>
-  Annual Meeting of the Cognitive Science Society
+  Cognitive Science Society
   
 
 - **Decisions about reward and effort for the learning and control of dynamical systems**
   <br>
   **Ritz, H.**, Nassar, M.R., Frank, M.J., & Shenhav, A. (2019)
   <br>
-  Multidisciplinary Conference on Reinforcement Learning and Decision Making
+  Reinforcement Learning and Decision Making
   
 
 - **Behavioral evidence for PID-like feedback control**
   <br>
   **Ritz, H.**, Nassar, M.R., Frank, M.J., & Shenhav, A. (2017)
   <br>
-  Multidisciplinary Conference on Reinforcement Learning and Decision Making
+  Reinforcement Learning and Decision Making
 
 
 <br>
