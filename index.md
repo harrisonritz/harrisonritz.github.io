@@ -19,6 +19,15 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
 
 ## Publications
 
+### 2023
+
+- **Humans reconfigure target and distractor processing to address distinct task demands**
+  <br>
+  **Ritz, H.** & Shenhav, A. (in press)
+  <br>
+  Psychological Review [[preprint](https://doi.org/10.1101/2021.09.08.459546)]
+
+
 
 ### 2022
 
@@ -101,14 +110,6 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   **Ritz, H.** & Shenhav, A.
   <br>
   [[preprint](https://doi.org/10.1101/2022.12.01.518771)] Featured on the [Sensorimotor Superlab Reading List](https://superlab.ca/readinglist/list189.html).
-
-
-- **Humans reconfigure target and distractor processing to address distinct task demands**
-  <br>
-  **Ritz, H.** & Shenhav, A.
-  <br>
-  [[preprint](https://doi.org/10.1101/2021.09.08.459546)]
-
  
 
 <br>
