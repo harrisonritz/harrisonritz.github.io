@@ -19,14 +19,14 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
 
 ## Publications
 
+
 ### 2023
 
 - **Humans reconfigure target and distractor processing to address distinct task demands**
   <br>
   **Ritz, H.** & Shenhav, A. (in press)
   <br>
-  Psychological Review [[preprint](https://doi.org/10.1101/2021.09.08.459546)]
-
+  Psychological Review [[bioRxiv preprint](https://doi.org/10.1101/2021.09.08.459546)][[current preprint](./assets/papers/2022_08_10-PACT.pdf)]
 
 
 ### 2022
@@ -50,6 +50,7 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   **Ritz, H.**, Leng, X., & Shenhav, A. (2022)
   <br>
   Journal of Cognitive Neuroscience [[PDF](./assets/papers/Ritz et al. 2022 - Cognitive Control as a Multivariate Optimization Problem.pdf)]
+
 
 
 ### 2018 - 2021
