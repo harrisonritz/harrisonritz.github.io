@@ -26,7 +26,7 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   <br>
   **Ritz, H.** & Shenhav, A. (in press)
   <br>
-  Psychological Review [[bioRxiv preprint](https://doi.org/10.1101/2021.09.08.459546)][[current preprint](./assets/papers/2022_08_10-PACT.pdf)]
+  Psychological Review [[bioRxiv preprint](https://doi.org/10.1101/2021.09.08.459546)][[current preprint](./assets/papers/RitzShenhav_rev2_clean.pdf)]
 
 
 ### 2022
