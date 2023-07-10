@@ -134,7 +134,7 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   <br>
   **Ritz, H.**, Wolf, W., & Cohen J.D. (2023)
   <br>
-  Cognitive Science Society [[PDF](./assets/papers/2023_CogSci.pdf)]
+  Cognitive Science Society [[PDF](./assets/papers/2023_CogSci.pdf)] [[poster](./assets/posters/2023_cogsci_poster.pdf)]
 
 
 - **Orthogonal neural encoding of targets and distractors supports cognitive control**
