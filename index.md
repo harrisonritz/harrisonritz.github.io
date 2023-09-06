@@ -24,9 +24,18 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
 
 - **Humans reconfigure target and distractor processing to address distinct task demands**
   <br>
-  **Ritz, H.** & Shenhav, A. (in press)
+  **Ritz, H.** & Shenhav, A. (2023)
   <br>
-  Psychological Review [[bioRxiv preprint](https://doi.org/10.1101/2021.09.08.459546)][[current preprint](./assets/papers/RitzShenhav_rev2_clean.pdf)] [[data + code](https://github.com/shenhavlab/PACT-public)]
+  Psychological Review [[pdf](./assets/papers/Ritz and Shenhav 2023 - Humans reconfigure target and distractor processing to address distinct task demands.pdf)][[data + code](https://github.com/shenhavlab/PACT-public)]
+
+
+- **Test-Retest Reliability of the Human Connectome: An OPM-MEG study**
+  <br>
+  Rier, L., Michelmann, S., **Ritz, H.**, Shah, V., Hill, R.M., Osborne, J., Doyle, C., Holmes, N., Bowtell, R., Brookes, M.J., Norman, K.A., Hasson, U., Cohen, J.D., Boto, E. (Accepted)
+  <br>
+  Imaging Neuroscience [[preprint](https://doi.org/10.1101/2022.12.21.521184)] [[dataset](https://doi.org/10.5281/zenodo.7477061)]
+
+
 
 
 ### 2022
@@ -98,13 +107,6 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   **Ritz, H.+**, Frömer, R.+, & Shenhav, A. (+ equal)
   <br>
   [[preprint](https://doi.org/10.1101/2023.01.18.524640)] 
-
-- **Test-Retest Reliability of the Human Connectome: An OPM-MEG study**
-  <br>
-  Rier, L., Michelmann, S., **Ritz, H.**, Shah, V., Hill, R.M., Osborne, J., Doyle, C., Holmes, N., Bowtell, R., Brookes, M.J., Norman, K.A., Hasson, U., Cohen, J.D., Boto, E.
-  <br>
-  [[preprint](https://doi.org/10.1101/2022.12.21.521184)] [[dataset](https://doi.org/10.5281/zenodo.7477061)]
-
 
 - **Orthogonal neural encoding of targets and distractors supports multivariate cognitive control**
   <br>
