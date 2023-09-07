@@ -4,17 +4,15 @@ layout: homepage
 <br>
 ### I'm interested in how we achieve our goals through planning and cognitive control, usually from the perspective of optimal control theory.
 
-My research combines **behavioral experiments** (e.g., psychophysics, naturalistic planning), **brain imaging** (e.g., fMRI, OP-MEG, collaborations with iEEG & ephys), and **computational modelling** (e.g., evidence accumulation, state space inference, inverse optimal control) to understand how we control our thoughts and actions. [[Curriculum Vitae](./assets/CV/hritz_CV.pdf)]
+My research combines **behavioral experiments** (e.g., psychophysics, naturalistic planning), **brain imaging** (e.g., fMRI, OP-MEG, collaborations with iEEG & ephys), and **computational modelling** (e.g., evidence accumulation, state space inference, inverse optimal control) to triagulate the core principles of purposeful cognition. [[Curriculum Vitae](./assets/CV/hritz_CV.pdf)]
 <br><br>
 I completed my BSc at Queen's University and my MSc at University of Western Ontario, working with [Ingrid Johnsrude](https://sites.google.com/site/johnsrudeconchlab/home). During my PhD at Brown University I worked with [Amitai Shenhav](https://www.shenhavlab.org/), [Michael J. Frank](https://www.lnccbrown.com/), and [Matthew Nassar](https://sites.brown.edu/mattlab/). [[PhD Précis](./assets/papers/Ritz_PhD_Precis.pdf)]
 <br><br>
 I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, working with [Jonathan Cohen](https://ncclab.princeton.edu/) and [Nathaniel Daw](https://dawlab.princeton.edu/).
 <br><br>
-
-
-
-
-
+<br><br>
+**I'm on the faculty job market this year! My lab will explore the neurocomputational basis of goal persuit though an exciting mix of formal models and rigorous experiments. We'll bring together trainees and collaborators with diverse backgrounds and expertise to better understand how we control our thoughts and actions. Happy to talk!**
+<br><br>
 
 
 ## Publications
