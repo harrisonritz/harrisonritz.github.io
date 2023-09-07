@@ -10,9 +10,8 @@ I completed my BSc at Queen's University and my MSc at University of Western Ont
 <br><br>
 I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, working with [Jonathan Cohen](https://ncclab.princeton.edu/) and [Nathaniel Daw](https://dawlab.princeton.edu/).
 <br><br>
-##### I'm on the faculty job market this year! My lab will explore the neurocomputational basis of goal persuit though an exciting mix of formal models and rigorous experiments. We'll bring together trainees and collaborators with diverse backgrounds and expertise to better understand how we control our thoughts and actions. Happy to talk!**
-<br><br>
-<br><br>
+**I'm on the faculty job market this year! My lab will explore the neurocomputational basis of goal persuit though an exciting mix of formal models and rigorous experiments. We'll bring together trainees and collaborators with diverse backgrounds and expertise to better understand how we control our thoughts and actions. Happy to talk!**
+<br><br><br>
 
 ## Publications
 
