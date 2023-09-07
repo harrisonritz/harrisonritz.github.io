@@ -26,7 +26,7 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   <br>
   **Ritz, H.** & Shenhav, A. (2023)
   <br>
-  Psychological Review [[PDF](./assets/papers/Ritz and Shenhav 2023 - Humans reconfigure target and distractor processing to address distinct task demands.pdf)][[Supplementary Materials](./assets/papers/rev0000442_sm.pdf)][[Data + Code](https://github.com/shenhavlab/PACT-public)]
+  Psychological Review [[PDF](./assets/papers/Ritz and Shenhav 2023 - Humans reconfigure target and distractor processing to address distinct task demands.pdf)] [[Supplementary Materials](./assets/papers/rev0000442_sm.pdf)] [[Data + Code](https://github.com/shenhavlab/PACT-public)]
 
 
 - **Test-Retest Reliability of the Human Connectome: An OPM-MEG study**
