@@ -125,7 +125,7 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   <br>
   **Ritz, H.**, Jha, A., Pillow, J., & Cohen J.D. (2023) 
   <br>
-  _Cognitive Computational Neuroscience_ [[PDF](./assets/papers/2023_CCN.pdf)]
+  _Cognitive Computational Neuroscience_ [[PDF](./assets/papers/2023_CCN.pdf)] [[poster](./assets/posters/2023_CCN_poster.pdf)]
 
 
 - **Continuous and Discrete Transitions during Task-Switching**
@@ -167,7 +167,7 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   <br>
   **Ritz, H.**, Nassar, M.R., Frank, M.J., & Shenhav, A. (2019)
   <br>
-  _Reinforcement Learning and Decision Making_
+  _Reinforcement Learning and Decision Making_ [[PDF](./assets/papers/ritz et al_rldm2019.pdf)]
   
 
 - **Behavioral evidence for PID-like feedback control**
