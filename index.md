@@ -22,7 +22,7 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   <br>
   **Ritz, H.** & Shenhav, A. (In press)
   <br>
-  _Nature Human Behaviour_ [[preprint](https://doi.org/10.1101/2022.12.01.518771)] [[Final Version](./assets/papers/Ritz and Shenhav 2023 - Orthogonal neural encoding of targets and distractors supports multivariate cognitive control.pdf)]
+  _Nature Human Behaviour_ [[preprint](https://doi.org/10.1101/2022.12.01.518771)] [[final version](./assets/papers/Ritz and Shenhav 2023 - Orthogonal neural encoding of targets and distractors supports multivariate cognitive control.pdf)]
 
 
 - **Humans reconfigure target and distractor processing to address distinct task demands**
