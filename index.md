@@ -20,9 +20,9 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
 
 - **Orthogonal neural encoding of targets and distractors supports multivariate cognitive control**
   <br>
-  **Ritz, H.** & Shenhav, A. (In press)
+  **Ritz, H.** & Shenhav, A. (in press)
   <br>
-  _Nature Human Behaviour_ [[preprint](https://doi.org/10.1101/2022.12.01.518771)] [[final version](./assets/papers/Ritz and Shenhav 2023 - Orthogonal neural encoding of targets and distractors supports multivariate cognitive control.pdf)]
+  _Nature Human Behaviour_ [[final version](./assets/papers/Ritz and Shenhav 2023 - Orthogonal neural encoding of targets and distractors supports multivariate cognitive control.pdf)] [[preprint](https://doi.org/10.1101/2022.12.01.518771)] 
 
 
 - **Humans reconfigure target and distractor processing to address distinct task demands**
@@ -34,9 +34,9 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
 
 - **Test-Retest Reliability of the Human Connectome: An OPM-MEG study**
   <br>
-  Rier, L., Michelmann, S., **Ritz, H.**, Shah, V., Hill, R.M., Osborne, J., Doyle, C., Holmes, N., Bowtell, R., Brookes, M.J., Norman, K.A., Hasson, U., Cohen, J.D., Boto, E. (Accepted)
+  Rier, L., Michelmann, S., **Ritz, H.**, Shah, V., Hill, R.M., Osborne, J., Doyle, C., Holmes, N., Bowtell, R., Brookes, M.J., Norman, K.A., Hasson, U., Cohen, J.D., Boto, E. (in press)
   <br>
-  _Imaging Neuroscience_ [[preprint](https://doi.org/10.1101/2022.12.21.521184)] [[dataset](https://doi.org/10.5281/zenodo.7477061)]
+  _Imaging Neuroscience_ [[final version](./assets/papers/Connectome_reliability_OPMMEG_manuscript.pdf)] [[preprint](https://doi.org/10.1101/2022.12.21.521184)] [[data + code](https://doi.org/10.5281/zenodo.7477061)]
 
 
 
