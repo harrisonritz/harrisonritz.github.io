@@ -36,7 +36,9 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
 
 
 
-## Publications
+
+
+## Journal Publications
 
 
 ### 2023
@@ -111,28 +113,38 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   <br>
   Leng, X., Yee, D., **Ritz, H.**, & Shenhav, A. (2021)
   <br>
-  _PLOS Computational Biology_ [[PDF](./assets/papers/Leng et al. - Dissociable influences of reward and punishment on adaptive cognitive control.pdf)]
+  _PLOS Computational Biology_ 
+  [[PDF](./assets/papers/Leng et al. - Dissociable influences of reward and punishment on adaptive cognitive control.pdf)]
+  [[DOI](https://doi.org/10.1371/journal.pcbi.1009737)]
 
 
 - **Bridging motor and cognitive control: It’s about time! (Spotlight)**
   <br>
   **Ritz, H.**, Frömer, R. & Shenhav, A. (2020)
   <br>
-  _Trends in Cognitive Sciences_ [[PDF](./assets/papers/Ritz et al. 2020 - Bridging Motor and Cognitive Control - It's About Time!.pdf)]
+  _Trends in Cognitive Sciences_ 
+  [[PDF](./assets/papers/Ritz et al. 2020 - Bridging Motor and Cognitive Control - It's About Time!.pdf)]
+  [[DOI](https://doi.org/10.1016/j.tics.2019.11.005)]
+
 
 
 - **Dissociable forms of uncertainty-driven representational change across the human brain**
   <br>
   Nassar, M.R., McGuire, J.T., **Ritz, H.**, & Kable, J. (2019)
   <br>
-  _Journal of Neuroscience_ [[PDF](./assets/papers/Nassar et al. 2019 - Dissociable Forms of Uncertainty-Driven Representational Change Across the Human Brain.pdf)]
+  _Journal of Neuroscience_ 
+  [[PDF](./assets/papers/Nassar et al. 2019 - Dissociable Forms of Uncertainty-Driven Representational Change Across the Human Brain.pdf)]
+  [[DOI](https://doi.org/10.1523/JNEUROSCI.1713-18.2018)]
 
 
 - **A control theoretic model of adaptive behavior in dynamic environments**
   <br>
   **Ritz, H.**, Nassar, M.R., Frank, M.J., & Shenhav, A. (2018)
   <br>
-  _Journal of Cognitive Neuroscience_ [[PDF](./assets/papers/Ritz et al. 2018 - A Control Theoretic Model of Adaptive Learning in Dynamic Environments.pdf)]
+  _Journal of Cognitive Neuroscience_ 
+  [[PDF](./assets/papers/Ritz et al. 2018 - A Control Theoretic Model of Adaptive Learning in Dynamic Environments.pdf)]
+  [[DOI](https://doi.org/10.1162/jocn_a_01289)]
+
 
 
 <br>
