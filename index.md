@@ -13,6 +13,29 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
 **I'm on the faculty job market this year! My lab will explore the neurocomputational basis of goal persuit though an exciting mix of formal modeling and rigorous experimentation. We'll bring together trainees and collaborators with diverse backgrounds and expertise to better understand how we control our thoughts and actions.**
 <br><br><br>
 
+
+
+
+
+
+## Preprints
+
+- **Phantom controllers: Misspecified models create the false appearance of adaptive control during value-based choice**
+  <br>
+  **Ritz, H.+**, Frömer, R.+, & Shenhav, A. (+ equal)
+  <br>
+  [[preprint](https://doi.org/10.1101/2023.01.18.524640)] 
+
+ 
+
+<br>
+
+
+
+
+
+
+
 ## Publications
 
 
@@ -22,21 +45,30 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   <br>
   **Ritz, H.** & Shenhav, A. (in press)
   <br>
-  _Nature Human Behaviour_ [[final version](./assets/papers/Ritz and Shenhav 2023 - Orthogonal neural encoding of targets and distractors supports multivariate cognitive control.pdf)] [[preprint](https://doi.org/10.1101/2022.12.01.518771)] 
+  _Nature Human Behaviour_ 
+  [[final version](./assets/papers/Ritz and Shenhav 2023 - Orthogonal neural encoding of targets and distractors supports multivariate cognitive control.pdf)] 
+  [[preprint](https://doi.org/10.1101/2022.12.01.518771)] 
 
 
 - **Humans reconfigure target and distractor processing to address distinct task demands**
   <br>
   **Ritz, H.** & Shenhav, A. (2023)
   <br>
-  _Psychological Review_ [[PDF](./assets/papers/Ritz and Shenhav 2023 - Humans reconfigure target and distractor processing to address distinct task demands.pdf)] [[supplementary materials](./assets/papers/rev0000442_sm.pdf)] [[data + code](https://github.com/shenhavlab/PACT-public)]
+  _Psychological Review_ 
+  [[PDF](./assets/papers/Ritz and Shenhav 2023 - Humans reconfigure target and distractor processing to address distinct task demands.pdf)] 
+  [[DOI](https://doi.org/10.1037/rev0000442)] 
+  [[supplementary materials](./assets/papers/rev0000442_sm.pdf)] 
+  [[data + code](https://github.com/shenhavlab/PACT-public)]
 
 
 - **Test-Retest Reliability of the Human Connectome: An OPM-MEG study**
   <br>
   Rier, L., Michelmann, S., **Ritz, H.**, Shah, V., Hill, R.M., Osborne, J., Doyle, C., Holmes, N., Bowtell, R., Brookes, M.J., Norman, K.A., Hasson, U., Cohen, J.D., Boto, E. (in press)
   <br>
-  _Imaging Neuroscience_ [[final version](./assets/papers/Connectome_reliability_OPMMEG_manuscript.pdf)] [[preprint](https://doi.org/10.1101/2022.12.21.521184)] [[data + code](https://doi.org/10.5281/zenodo.7477061)]
+  _Imaging Neuroscience_ 
+  [[PDF](./assets/papers/Rier et al. 2023 - Test-retest reliability of the human connectome - An OPM-MEG study.pdf)] 
+  [[DOI]](https://doi.org/10.1162/imag_a_00020)
+  [[data + code](https://doi.org/10.5281/zenodo.7477061)]
 
 
 
@@ -47,21 +79,29 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   <br>
   **Ritz, H.**, Wild, C., & Johnsrude, I. (2022)
   <br>
-  _Journal of Neuroscience_ [[PDF](./assets/papers/Ritz et al. 2022 - Parametric Cognitive Load Reveals Hidden Costs in the Neural Processing of Perfectly Intelligible Degraded Speech.pdf)]
+  _Journal of Neuroscience_ 
+  [[PDF](./assets/papers/Ritz et al. 2022 - Parametric Cognitive Load Reveals Hidden Costs in the Neural Processing of Perfectly Intelligible Degraded Speech.pdf)]
+  [[DOI](https://doi.org/10.1523/JNEUROSCI.1777-21.2022)]
 
 
 - **Humans can navigate complex graph structures acquired during latent learning**
   <br>
   Rmus, M., **Ritz, H.**, Hunter, L.E., Bornstein, A.M., & Shenhav, A. (2022)
   <br>
-  _Cognition_ [[PDF](./assets/papers/Rmus et al. 2022 - Humans can navigate complex graph structures acquired during latent learning.pdf)]
+  _Cognition_ 
+  [[PDF](./assets/papers/Rmus et al. 2022 - Humans can navigate complex graph structures acquired during latent learning.pdf)]
+  [[DOI](https://doi.org/10.1016/j.cognition.2022.105103)]
+
 
 
 - **Cognitive control as a multivariate optimization problem**
   <br>
   **Ritz, H.**, Leng, X., & Shenhav, A. (2022)
   <br>
-  _Journal of Cognitive Neuroscience_ [[PDF](./assets/papers/Ritz et al. 2022 - Cognitive Control as a Multivariate Optimization Problem.pdf)]
+  _Journal of Cognitive Neuroscience_ 
+  [[PDF](./assets/papers/Ritz et al. 2022 - Cognitive Control as a Multivariate Optimization Problem.pdf)]
+  [[DOI](https://doi.org/10.1162/jocn_a_01822)]
+
 
 
 
@@ -98,22 +138,6 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
 <br>
 
 
-
-
-
-
-
-## Preprints
-
-- **Phantom controllers: Misspecified models create the false appearance of adaptive control during value-based choice**
-  <br>
-  **Ritz, H.+**, Frömer, R.+, & Shenhav, A. (+ equal)
-  <br>
-  [[preprint](https://doi.org/10.1101/2023.01.18.524640)] 
-
- 
-
-<br>
 
 
 
