@@ -65,7 +65,7 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
 
 - **Test-Retest Reliability of the Human Connectome: An OPM-MEG study**
   <br>
-  Rier, L., Michelmann, S., **Ritz, H.**, Shah, V., Hill, R.M., Osborne, J., Doyle, C., Holmes, N., Bowtell, R., Brookes, M.J., Norman, K.A., Hasson, U., Cohen, J.D., Boto, E. (in press)
+  Rier, L., Michelmann, S., **Ritz, H.**, Shah, V., Hill, R.M., Osborne, J., Doyle, C., Holmes, N., Bowtell, R., Brookes, M.J., Norman, K.A., Hasson, U., Cohen, J.D., Boto, E. (2023)
   <br>
   _Imaging Neuroscience_ 
   [[PDF](./assets/papers/Rier et al. 2023 - Test-retest reliability of the human connectome - An OPM-MEG study.pdf)] 
