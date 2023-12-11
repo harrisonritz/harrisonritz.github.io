@@ -43,6 +43,46 @@
         {{ site.email }}
         {% endif %}
 
+        <br>
+        <br>
+
+        <div class="social-icons">
+
+          {% if site.twitter %} 
+          <a style="margin: 0 5px 0 0" href="{{ site.twitter }}" target="_blank">
+            <i class="fab fa-twitter"></i>
+          </a>
+          {% endif %}
+
+          {% if site.linkedin %}
+          <a style="margin: 0 5px 0 0" href="{{ site.linkedin }}" target="_blank">
+            <i class="fab fa-linkedin-in"></i>
+          </a>
+          {% endif %}
+
+          {% if site.google_scholar %}
+          <a style="margin: 0 5px 0 0" href="{{ site.google_scholar}}" target="_blank">
+            <i class="ai ai-google-scholar" style="font-size:1.6rem"></i>
+          </a>
+          {% endif %}
+
+          {% if site.github_link %}            
+          <a href="{{ site.github_link }}" target="_blank">
+            <i class="fab fa-github"></i>
+          </a>
+          {% endif %}
+
+          {% if site.orcid_link %}           
+          <a style="margin: 0 0 0 0" href="{{ site.orcid_link}}" target="_blank">
+            <i class="ai ai-orcid" style="font-size:1.6rem"></i>
+          </a>
+          {% endif %}
+
+        </div>
+        <br>
+
+
+
       </header>
       <section>
 
@@ -54,37 +94,6 @@
 
       </section>
       <footer>
-        <div class="social-icons">
-
-         {% if site.twitter %}
-          <a href="{{ site.twitter }}" target="_blank">
-            <i class="fab fa-twitter"></i>
-          </a>
-          {% endif %}
-          {% if site.linkedin %}
-          <a href="{{ site.linkedin }}" target="_blank">
-            <i class="fab fa-linkedin-in"></i>
-          </a>
-          {% endif %}
-          {% if site.google_scholar %}
-          <a href="{{ site.google_scholar}}" target="_blank">
-            <i class="ai ai-google-scholar" style="font-size:1.6rem"></i>
-          </a>
-          {% endif %}
-          {% if site.github_link %}            
-          <a href="{{ site.github_link }}" target="_blank">
-            <i class="fab fa-github"></i>
-          </a>
-          {% endif %}
-          {% if site.orcid_link %}           
-          <a href="{{ site.orcid_link}}" target="_blank">
-            <i class="ai ai-orcid" style="font-size:1.6rem"></i>
-          </a>
-          {% endif %}
-        </div>
-        <br>
-        <br>
-        <br>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
