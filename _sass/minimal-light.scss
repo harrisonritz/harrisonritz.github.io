@@ -35,6 +35,11 @@ papertitle {
     font-size: 100%;
   }
 
+  email {
+    font-size: 14px;
+    font-family: "Ubuntu Mono";
+  }
+
 @media (prefers-color-scheme: dark) {
     body {
         background-color: #20212b;
@@ -42,10 +47,6 @@ papertitle {
     }
 
 
-    email {
-      font-size: 14px;
-      font-family: "Ubuntu Mono";
-    }
 
 
     autocolor{

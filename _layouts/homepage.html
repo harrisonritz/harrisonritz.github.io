@@ -37,9 +37,13 @@
         {{ site.position }}
         <br>
         {% endif %}
-        {{ site.affiliation }}
-        {% if site.email %}
+
+        {% if site.affiliation %}
+        <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
         <br>
+        {% endif %}
+
+        {% if site.email %}
         <email>{{ site.email }}</email>
         {% endif %}
 
