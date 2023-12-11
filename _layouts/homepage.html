@@ -77,17 +77,8 @@
           </a>
           {% endif %}
           {% if site.oricd %}           
-          <a
-          id="cy-effective-orcid-url"
-          class="underline"
-          href="{{site.oricd}}"
-          target="orcid.widget"
-          rel="me noopener noreferrer"
-          style="vertical-align: top">
-          <img
-            src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-            style="width: 1em; margin-inline-start: 0.5em"
-            alt="ORCID iD icon"/>
+          <a href="{{ site.orcid }}" target="_blank">
+            <i class="fab fa-orcid"></i>
           </a>
           {% endif %}
         </div>
