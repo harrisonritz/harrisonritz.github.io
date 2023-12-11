@@ -76,6 +76,18 @@
             <i class="fab fa-github"></i>
           </a>
           {% endif %}
+          {% if site.oricd %}           
+          <a
+          id="cy-effective-orcid-url"
+          class="underline"
+           href="{{site.oricd}}"
+           target="orcid.widget"
+           rel="me noopener noreferrer"
+           <img
+              src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+              alt="ORCID iD icon"/>
+          </a>
+          {% endif %}
         </div>
         <br>
         <br>
