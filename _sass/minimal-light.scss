@@ -116,12 +116,12 @@ papertitle {
 
 h1, h3, h4, h5, h6 {
   font-weight: 600;
-  color:#392699;
+  color:#1A3366;
   margin:0 0 20px;
 }
 
 h2 {
-  color:#392699;
+  color:#1A3366;
   margin:2px 0px 15px;
   font-size: 157%;
 }
@@ -155,14 +155,14 @@ a {
   text-decoration:none;
 }
 a:hover {
-  color:#809FDF;
+  color:#CC9933;
 }
 @media (prefers-color-scheme: dark) {
   a {
     color:#809FDF;
   }
   a:hover {
-    color:#3366CC;
+    color:#CC9933;
   }
 
 }
