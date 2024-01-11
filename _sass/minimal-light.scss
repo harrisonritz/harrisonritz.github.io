@@ -10,8 +10,9 @@ body {
   margin:0
 }
 
-.social-icons a:last-child{margin-right:0}.social-icons a:hover{background-color:white;
-  color:black;
+.social-icons a:last-child{margin-right:0}.social-icons 
+a:hover{
+  color:#CC9933;
   transform: scale(1.2)}
 
 autocolor{
@@ -109,32 +110,36 @@ papertitle {
       margin: 0 0 1em 0;
       width: 8.00em;
     }
+    
+
+/* headers colors */  
 
 h1, h3, h4, h5, h6 {
   font-weight: 600;
-  color:#4C33CC;
+  color:#392699;
   margin:0 0 20px;
 }
 
 h2 {
-  color:#4C33CC;
+  color:#392699;
   margin:2px 0px 15px;
   font-size: 157%;
 }
 
 @media (prefers-color-scheme: dark) {
   h1, h3, h4, h5, h6 {
-    color:#4C33CC;
+    color:#8F80DF;
   }
 
   h2 {
-    color:#4C33CC;
+    color:#8F80DF;
   }
 }
 
 p, ul, ol, table, pre, dl {
   margin:0 0 20px;
 }
+
 
 h1, h2, h3 {
   line-height:1.1;
@@ -144,19 +149,22 @@ h1 {
   font-size:28px;
 }
 
+/* link/social colors */  
 a {
   color: #3366CC;
   text-decoration:none;
 }
-
 a:hover {
-  color:#BA4D32;
+  color:#809FDF;
 }
-
 @media (prefers-color-scheme: dark) {
   a {
-    color:rgb(62, 183, 240);
+    color:#809FDF;
   }
+  a:hover {
+    color:#3366CC;
+  }
+
 }
 
 a small {
