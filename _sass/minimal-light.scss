@@ -116,23 +116,23 @@ papertitle {
 
 h1, h3, h4, h5, h6 {
   font-weight: 600;
-  color:#1A3366;
+  color:#204080;
   margin:0 0 20px;
 }
 
 h2 {
-  color:#1A3366;
+  color:#204080;
   margin:2px 0px 15px;
   font-size: 157%;
 }
 
 @media (prefers-color-scheme: dark) {
   h1, h3, h4, h5, h6 {
-    color:#8F80DF;
+    color:#5070AF;
   }
 
   h2 {
-    color:#8F80DF;
+    color:#5070AF;
   }
 }
 
