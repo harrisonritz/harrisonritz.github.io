@@ -47,7 +47,8 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   <br>
   **Ritz, H.** & Shenhav, A. (in press)
   <br>
-  _Nature Human Behaviour_ 
+  _Nature Human Behaviour_
+  <br>   
   [[final version](./assets/papers/Ritz and Shenhav 2023 - Orthogonal neural encoding of targets and distractors supports multivariate cognitive control.pdf)] 
   [[preprint](https://doi.org/10.1101/2022.12.01.518771)] 
 
@@ -56,7 +57,8 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   <br>
   **Ritz, H.** & Shenhav, A. (2023)
   <br>
-  _Psychological Review_ 
+  _Psychological Review_
+  <br> 
   [[PDF](./assets/papers/Ritz and Shenhav 2023 - Humans reconfigure target and distractor processing to address distinct task demands.pdf)] 
   [[DOI](https://doi.org/10.1037/rev0000442)] 
   [[supplementary materials](./assets/papers/rev0000442_sm.pdf)] 
@@ -67,7 +69,8 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   <br>
   Rier, L., Michelmann, S., **Ritz, H.**, Shah, V., Hill, R.M., Osborne, J., Doyle, C., Holmes, N., Bowtell, R., Brookes, M.J., Norman, K.A., Hasson, U., Cohen, J.D., Boto, E. (2023)
   <br>
-  _Imaging Neuroscience_ 
+  _Imaging Neuroscience_
+  <br> 
   [[PDF](./assets/papers/Rier et al. 2023 - Test-retest reliability of the human connectome - An OPM-MEG study.pdf)] 
   [[DOI]](https://doi.org/10.1162/imag_a_00020)
   [[data + code](https://doi.org/10.5281/zenodo.7477061)]
@@ -81,7 +84,8 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   <br>
   **Ritz, H.**, Wild, C., & Johnsrude, I. (2022)
   <br>
-  _Journal of Neuroscience_ 
+  _Journal of Neuroscience_
+  <br> 
   [[PDF](./assets/papers/Ritz et al. 2022 - Parametric Cognitive Load Reveals Hidden Costs in the Neural Processing of Perfectly Intelligible Degraded Speech.pdf)]
   [[DOI](https://doi.org/10.1523/JNEUROSCI.1777-21.2022)]
 
@@ -90,7 +94,8 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   <br>
   Rmus, M., **Ritz, H.**, Hunter, L.E., Bornstein, A.M., & Shenhav, A. (2022)
   <br>
-  _Cognition_ 
+  _Cognition_
+  <br> 
   [[PDF](./assets/papers/Rmus et al. 2022 - Humans can navigate complex graph structures acquired during latent learning.pdf)]
   [[DOI](https://doi.org/10.1016/j.cognition.2022.105103)]
 
@@ -100,7 +105,8 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   <br>
   **Ritz, H.**, Leng, X., & Shenhav, A. (2022)
   <br>
-  _Journal of Cognitive Neuroscience_ 
+  _Journal of Cognitive Neuroscience_
+  <br> 
   [[PDF](./assets/papers/Ritz et al. 2022 - Cognitive Control as a Multivariate Optimization Problem.pdf)]
   [[DOI](https://doi.org/10.1162/jocn_a_01822)]
 
@@ -113,7 +119,8 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   <br>
   Leng, X., Yee, D., **Ritz, H.**, & Shenhav, A. (2021)
   <br>
-  _PLOS Computational Biology_ 
+  _PLOS Computational Biology_
+  <br> 
   [[PDF](./assets/papers/Leng et al. - Dissociable influences of reward and punishment on adaptive cognitive control.pdf)]
   [[DOI](https://doi.org/10.1371/journal.pcbi.1009737)]
 
@@ -122,7 +129,8 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   <br>
   **Ritz, H.**, Frömer, R. & Shenhav, A. (2020)
   <br>
-  _Trends in Cognitive Sciences_ 
+  _Trends in Cognitive Sciences_
+  <br> 
   [[PDF](./assets/papers/Ritz et al. 2020 - Bridging Motor and Cognitive Control - It's About Time!.pdf)]
   [[DOI](https://doi.org/10.1016/j.tics.2019.11.005)]
 
@@ -132,7 +140,8 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   <br>
   Nassar, M.R., McGuire, J.T., **Ritz, H.**, & Kable, J. (2019)
   <br>
-  _Journal of Neuroscience_ 
+  _Journal of Neuroscience_
+  <br> 
   [[PDF](./assets/papers/Nassar et al. 2019 - Dissociable Forms of Uncertainty-Driven Representational Change Across the Human Brain.pdf)]
   [[DOI](https://doi.org/10.1523/JNEUROSCI.1713-18.2018)]
 
@@ -141,7 +150,8 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   <br>
   **Ritz, H.**, Nassar, M.R., Frank, M.J., & Shenhav, A. (2018)
   <br>
-  _Journal of Cognitive Neuroscience_ 
+  _Journal of Cognitive Neuroscience_
+  <br> 
   [[PDF](./assets/papers/Ritz et al. 2018 - A Control Theoretic Model of Adaptive Learning in Dynamic Environments.pdf)]
   [[DOI](https://doi.org/10.1162/jocn_a_01289)]
 
@@ -163,14 +173,18 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   <br>
   **Ritz, H.**, Jha, A., Pillow, J., & Cohen J.D. (2023) 
   <br>
-  _Cognitive Computational Neuroscience_ [[PDF](./assets/papers/2023_CCN.pdf)] [[poster](./assets/posters/2023_CCN_poster.pdf)]
+  _Cognitive Computational Neuroscience_
+  <br>
+  [[PDF](./assets/papers/2023_CCN.pdf)] [[poster](./assets/posters/2023_CCN_poster.pdf)]
 
 
 - **Continuous and Discrete Transitions during Task-Switching**
   <br>
   **Ritz, H.**, Wolf, W., & Cohen J.D. (2023)
   <br>
-  _Cognitive Science Society_ [[PDF](./assets/papers/Ritz_2023_CogSci.pdf)] [[poster](./assets/posters/2023_cogsci_poster.pdf)]
+  _Cognitive Science Society_
+  <br> 
+  [[PDF](./assets/papers/Ritz_2023_CogSci.pdf)] [[poster](./assets/posters/2023_cogsci_poster.pdf)]
 
 
 - **Orthogonal neural encoding of targets and distractors supports cognitive control**
@@ -184,7 +198,9 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   <br>
   **Ritz, H.**, DeGutis, J., Frank M.J., Esterman, M., & Shenhav, A. (2020)
   <br>
-  _Cognitive Science Society_ [[PDF](./assets/papers/Ritz et al. - An evidence accumulation model of motivational and developmental influences over sustained attention.pdf)]
+  _Cognitive Science Society_
+  <br> 
+  [[PDF](./assets/papers/Ritz et al. - An evidence accumulation model of motivational and developmental influences over sustained attention.pdf)]
 
 
 - **Dissociable influences of reward and punishment on adaptive cognitive control**
@@ -205,7 +221,9 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   <br>
   **Ritz, H.**, Nassar, M.R., Frank, M.J., & Shenhav, A. (2019)
   <br>
-  _Reinforcement Learning and Decision Making_ [[PDF](./assets/papers/ritz et al_rldm2019.pdf)]
+  _Reinforcement Learning and Decision Making_
+  <br> 
+  [[PDF](./assets/papers/ritz et al_rldm2019.pdf)]
   
 
 - **Behavioral evidence for PID-like feedback control**
