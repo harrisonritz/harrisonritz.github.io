@@ -116,7 +116,7 @@ papertitle {
 
 h1, h3, h4, h5, h6 {
   font-weight: 600;
-  color:#3340CC;
+  color:#204080;
   margin:0 0 20px;
 }
 
@@ -128,11 +128,11 @@ h2 {
 
 @media (prefers-color-scheme: dark) {
   h1, h3, h4, h5, h6 {
-    color:#5070AF;
+    color:#3366CC;
   }
 
   h2 {
-    color:#5070AF;
+    color:#3366CC;
   }
 }
 
