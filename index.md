@@ -40,8 +40,7 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
 
 ## Journal Publications
 
-
-### 2023
+### 2024
 
 - **Orthogonal neural encoding of targets and distractors supports multivariate cognitive control**
   <br>
@@ -52,6 +51,9 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   [[final version](./assets/papers/Ritz and Shenhav 2023 - Orthogonal neural encoding of targets and distractors supports multivariate cognitive control.pdf)] 
   [[preprint](https://doi.org/10.1101/2022.12.01.518771)] 
 
+
+
+### 2023
 
 - **Humans reconfigure target and distractor processing to address distinct task demands**
   <br>
