@@ -114,9 +114,15 @@ papertitle {
 
 /* bullet style */  
 
-ul {
+ul li::marker {
   list-style-type: disc;
   color:#204080;
+}
+
+@media (prefers-color-scheme: dark) {
+  ul li::marker {
+    color:#4D79D2;
+  }
 }
 
 /* headers colors */  
@@ -135,11 +141,11 @@ h2 {
 
 @media (prefers-color-scheme: dark) {
   h1, h3, h4, h5, h6 {
-    color:#33CC4D;
+    color:#4D79D2;
   }
 
   h2 {
-    color:#33CC4D;
+    color:#4D79D2;
   }
 }
 
