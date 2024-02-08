@@ -61,8 +61,8 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   <br>
   _Psychological Review_
   <br> 
-  [[PDF](./assets/papers/Ritz and Shenhav 2023 - Humans reconfigure target and distractor processing to address distinct task demands.pdf)] 
-  [[DOI](https://doi.org/10.1037/rev0000442)] 
+  [[pdf](./assets/papers/Ritz and Shenhav 2023 - Humans reconfigure target and distractor processing to address distinct task demands.pdf)] 
+  [[web](https://doi.org/10.1037/rev0000442)] 
   [[supplementary materials](./assets/papers/rev0000442_sm.pdf)] 
   [[data + code](https://github.com/shenhavlab/PACT-public)]
 
@@ -73,8 +73,8 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   <br>
   _Imaging Neuroscience_
   <br> 
-  [[PDF](./assets/papers/Rier et al. 2023 - Test-retest reliability of the human connectome - An OPM-MEG study.pdf)] 
-  [[DOI]](https://doi.org/10.1162/imag_a_00020)
+  [[pdf](./assets/papers/Rier et al. 2023 - Test-retest reliability of the human connectome - An OPM-MEG study.pdf)] 
+  [[web]](https://doi.org/10.1162/imag_a_00020)
   [[data + code](https://doi.org/10.5281/zenodo.7477061)]
 
 
@@ -88,8 +88,8 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   <br>
   _Journal of Neuroscience_
   <br> 
-  [[PDF](./assets/papers/Ritz et al. 2022 - Parametric Cognitive Load Reveals Hidden Costs in the Neural Processing of Perfectly Intelligible Degraded Speech.pdf)]
-  [[DOI](https://doi.org/10.1523/JNEUROSCI.1777-21.2022)]
+  [[pdf](./assets/papers/Ritz et al. 2022 - Parametric Cognitive Load Reveals Hidden Costs in the Neural Processing of Perfectly Intelligible Degraded Speech.pdf)]
+  [[web](https://doi.org/10.1523/JNEUROSCI.1777-21.2022)]
 
 
 - **Humans can navigate complex graph structures acquired during latent learning**
@@ -98,8 +98,8 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   <br>
   _Cognition_
   <br> 
-  [[PDF](./assets/papers/Rmus et al. 2022 - Humans can navigate complex graph structures acquired during latent learning.pdf)]
-  [[DOI](https://doi.org/10.1016/j.cognition.2022.105103)]
+  [[pdf](./assets/papers/Rmus et al. 2022 - Humans can navigate complex graph structures acquired during latent learning.pdf)]
+  [[web](https://doi.org/10.1016/j.cognition.2022.105103)]
 
 
 
@@ -109,8 +109,8 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   <br>
   _Journal of Cognitive Neuroscience_
   <br> 
-  [[PDF](./assets/papers/Ritz et al. 2022 - Cognitive Control as a Multivariate Optimization Problem.pdf)]
-  [[DOI](https://doi.org/10.1162/jocn_a_01822)]
+  [[pdf](./assets/papers/Ritz et al. 2022 - Cognitive Control as a Multivariate Optimization Problem.pdf)]
+  [[web](https://doi.org/10.1162/jocn_a_01822)]
 
 
 
@@ -123,8 +123,8 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   <br>
   _PLOS Computational Biology_
   <br> 
-  [[PDF](./assets/papers/Leng et al. - Dissociable influences of reward and punishment on adaptive cognitive control.pdf)]
-  [[DOI](https://doi.org/10.1371/journal.pcbi.1009737)]
+  [[pdf](./assets/papers/Leng et al. - Dissociable influences of reward and punishment on adaptive cognitive control.pdf)]
+  [[web](https://doi.org/10.1371/journal.pcbi.1009737)]
 
 
 - **Bridging motor and cognitive control: It’s about time! (Spotlight)**
@@ -133,8 +133,8 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   <br>
   _Trends in Cognitive Sciences_
   <br> 
-  [[PDF](./assets/papers/Ritz et al. 2020 - Bridging Motor and Cognitive Control - It's About Time!.pdf)]
-  [[DOI](https://doi.org/10.1016/j.tics.2019.11.005)]
+  [[pdf](./assets/papers/Ritz et al. 2020 - Bridging Motor and Cognitive Control - It's About Time!.pdf)]
+  [[web](https://doi.org/10.1016/j.tics.2019.11.005)]
 
 
 
@@ -144,8 +144,8 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   <br>
   _Journal of Neuroscience_
   <br> 
-  [[PDF](./assets/papers/Nassar et al. 2019 - Dissociable Forms of Uncertainty-Driven Representational Change Across the Human Brain.pdf)]
-  [[DOI](https://doi.org/10.1523/JNEUROSCI.1713-18.2018)]
+  [[pdf](./assets/papers/Nassar et al. 2019 - Dissociable Forms of Uncertainty-Driven Representational Change Across the Human Brain.pdf)]
+  [[web](https://doi.org/10.1523/JNEUROSCI.1713-18.2018)]
 
 
 - **A control theoretic model of adaptive behavior in dynamic environments**
@@ -154,8 +154,8 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   <br>
   _Journal of Cognitive Neuroscience_
   <br> 
-  [[PDF](./assets/papers/Ritz et al. 2018 - A Control Theoretic Model of Adaptive Learning in Dynamic Environments.pdf)]
-  [[DOI](https://doi.org/10.1162/jocn_a_01289)]
+  [[pdf](./assets/papers/Ritz et al. 2018 - A Control Theoretic Model of Adaptive Learning in Dynamic Environments.pdf)]
+  [[web](https://doi.org/10.1162/jocn_a_01289)]
 
 
 
@@ -177,7 +177,7 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   <br>
   _Cognitive Computational Neuroscience_
   <br>
-  [[PDF](./assets/papers/2023_CCN.pdf)] [[poster](./assets/posters/2023_CCN_poster.pdf)]
+  [[pdf](./assets/papers/2023_CCN.pdf)] [[poster](./assets/posters/2023_CCN_poster.pdf)]
 
 
 - **Continuous and Discrete Transitions during Task-Switching**
@@ -186,7 +186,7 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   <br>
   _Cognitive Science Society_
   <br> 
-  [[PDF](./assets/papers/Ritz_2023_CogSci.pdf)] [[poster](./assets/posters/2023_cogsci_poster.pdf)]
+  [[pdf](./assets/papers/Ritz_2023_CogSci.pdf)] [[poster](./assets/posters/2023_cogsci_poster.pdf)]
 
 
 - **Orthogonal neural encoding of targets and distractors supports cognitive control**
@@ -202,7 +202,7 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   <br>
   _Cognitive Science Society_
   <br> 
-  [[PDF](./assets/papers/Ritz et al. - An evidence accumulation model of motivational and developmental influences over sustained attention.pdf)]
+  [[pdf](./assets/papers/Ritz et al. - An evidence accumulation model of motivational and developmental influences over sustained attention.pdf)]
 
 
 - **Dissociable influences of reward and punishment on adaptive cognitive control**
@@ -225,7 +225,7 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   <br>
   _Reinforcement Learning and Decision Making_
   <br> 
-  [[PDF](./assets/papers/ritz et al_rldm2019.pdf)]
+  [[pdf](./assets/papers/ritz et al_rldm2019.pdf)]
   
 
 - **Behavioral evidence for PID-like feedback control**
