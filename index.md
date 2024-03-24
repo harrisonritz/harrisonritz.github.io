@@ -2,15 +2,13 @@
 layout: homepage
 ---
 <br>
-### I'm interested in how we achieve our goals through planning and cognitive control, usually from the perspective of optimal control theory.
+### I'm interested in how we use cognitive control to pursue our goals
 
-My research combines **computational modeling** (e.g., evidence accumulation, state space inference, inverse optimal control) with **behavioral experiments** (e.g., psychophysics, naturalistic videogames) and **neuroimaging** (e.g., fMRI, EEG/MEG, iEEG/DBS/ephys collaborations) to better understand the core principles of goal pursuit. [[Curriculum Vitae](./assets/CV/hritz_CV.pdf)]
+*How do we change our state of mind*? My reserach explores the dynamics of cognitive control --- e.g., attention, decision strategies, or task sets --- though the lens of optimal control theory. To study this, I combine experimentation (e.g., psychophysics, fMRI, EEG/MEG) with computational modelling (e.g., evidence accumulation, state space modelling, inverse optimal control).
 <br><br>
-I completed my BSc at Queen's University and my MSc at University of Western Ontario, working with [Ingrid Johnsrude](https://sites.google.com/site/johnsrudeconchlab/home). During my PhD at Brown University I worked with [Amitai Shenhav](https://www.shenhavlab.org/), [Michael J. Frank](https://www.lnccbrown.com/), and [Matthew Nassar](https://sites.brown.edu/mattlab/). [[PhD Précis](./assets/papers/Ritz_PhD_Precis.pdf)]
+I completed my BSc at Queen's University and my MSc at University of Western Ontario, working with [Ingrid Johnsrude](https://sites.google.com/site/johnsrudeconchlab/home). During my PhD at Brown University I worked with [Amitai Shenhav](https://www.shenhavlab.org/), [Michael J. Frank](https://www.lnccbrown.com/), and [Matthew Nassar](https://sites.brown.edu/mattlab/). 
 <br><br>
-I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, working with [Jonathan Cohen](https://ncclab.princeton.edu/) and [Nathaniel Daw](https://dawlab.princeton.edu/).
-<br><br>
-**I'm on the faculty job market this year! My lab will explore the neurocomputational basis of goal persuit though an exciting mix of formal modeling and rigorous experimentation. We'll bring together trainees and collaborators with diverse backgrounds and expertise to better understand how we control our thoughts and actions.**
+I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, working with [Jonathan Cohen](https://ncclab.princeton.edu/) and [Nathaniel Daw](https://dawlab.princeton.edu/).[[Curriculum Vitae](./assets/CV/hritz_CV.pdf)]
 <br><br><br>
 
 
