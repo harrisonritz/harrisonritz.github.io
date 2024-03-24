@@ -4,11 +4,11 @@ layout: homepage
 <br>
 ### I'm interested in how we use cognitive control to pursue our goals
 
-*How do we change our state of mind*? My reserach explores the dynamics of cognitive control --- e.g., attention, decision strategies, or task sets --- though the lens of optimal control theory. To study this, I combine experimentation (e.g., psychophysics, fMRI, EEG/MEG) with computational modelling (e.g., evidence accumulation, state space modelling, inverse optimal control).
+*How do we change our state of mind*? My reserach explores the dynamics of cognitive control --- e.g., attention, decision strategies, or task sets --- though the lens of optimal control theory. To study this through a combination of **emperical experiments** (e.g., psychophysics, fMRI, EEG/OPM) and **computational modelling** (e.g., evidence accumulation, neural networks, state space inference, inverse optimal control).
 <br><br>
-I completed my BSc at Queen's University and my MSc at University of Western Ontario, working with [Ingrid Johnsrude](https://sites.google.com/site/johnsrudeconchlab/home). During my PhD at Brown University I worked with [Amitai Shenhav](https://www.shenhavlab.org/), [Michael J. Frank](https://www.lnccbrown.com/), and [Matthew Nassar](https://sites.brown.edu/mattlab/). 
+I completed my BSc at Queen's University and my MSc at University of Western Ontario, working with [Ingrid Johnsrude](https://sites.google.com/site/johnsrudeconchlab/home). During my PhD at Brown University I worked with [Amitai Shenhav](https://www.shenhavlab.org/), [Michael J. Frank](https://www.lnccbrown.com/), and [Matthew Nassar](https://sites.brown.edu/mattlab/). [[Curriculum Vitae](./assets/CV/hritz_CV.pdf)]
 <br><br>
-I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, working with [Jonathan Cohen](https://ncclab.princeton.edu/) and [Nathaniel Daw](https://dawlab.princeton.edu/).[[Curriculum Vitae](./assets/CV/hritz_CV.pdf)]
+I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, working with [Jonathan Cohen](https://ncclab.princeton.edu/), [Nathaniel Daw](https://dawlab.princeton.edu/), and [Jonathan Pillow](https://pillowlab.princeton.edu/).
 <br><br><br>
 
 
@@ -101,6 +101,7 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   <br> 
   [[pdf](./assets/papers/Rmus et al. 2022 - Humans can navigate complex graph structures acquired during latent learning.pdf)]
   [[web](https://doi.org/10.1016/j.cognition.2022.105103)]
+  [[supplementary materials](./assets/papers/1-s2.0-S0010027722000919-mmc1.pdf)]
 
 
 
@@ -126,6 +127,7 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   <br> 
   [[pdf](./assets/papers/Leng et al. - Dissociable influences of reward and punishment on adaptive cognitive control.pdf)]
   [[web](https://doi.org/10.1371/journal.pcbi.1009737)]
+  [[supplementary materials](./assets/papers/pcbi.1009737.s001.pdf)]
 
 
 - **Bridging motor and cognitive control: It’s about time! (Spotlight)**
