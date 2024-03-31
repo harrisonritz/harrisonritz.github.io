@@ -4,7 +4,7 @@ layout: homepage
 <br>
 ### I'm interested in how we use cognitive control to pursue our goals
 
-*How do we change our state of mind*? My reserach explores the dynamics of cognitive control --- e.g., attention, decision strategies, or task sets --- though the lens of optimal control theory. To study this through a combination of **emperical experiments** (e.g., psychophysics, fMRI, EEG/OPM) and **computational modelling** (e.g., evidence accumulation, neural networks, state space inference, inverse optimal control).
+*How do we change our state of mind*? My reserach explores the dynamics of cognitive control --- e.g., attention, decision strategies, or task sets --- though the lens of optimal control theory. I try to answer these questions by combining **emperical experiments** (e.g., psychophysics, fMRI, EEG/OPM) with **computational modelling** (e.g., evidence accumulation, neural network modeling, state space inference, inverse optimal control).
 <br><br>
 I completed my BSc at Queen's University and my MSc at University of Western Ontario, working with [Ingrid Johnsrude](https://sites.google.com/site/johnsrudeconchlab/home). During my PhD at Brown University I worked with [Amitai Shenhav](https://www.shenhavlab.org/), [Michael J. Frank](https://www.lnccbrown.com/), and [Matthew Nassar](https://sites.brown.edu/mattlab/). [[Curriculum Vitae](./assets/CV/hritz_CV.pdf)]
 <br><br>
