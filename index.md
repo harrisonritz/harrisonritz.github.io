@@ -2,23 +2,14 @@
 layout: homepage
 ---
 <br>
-### *How do we change our state of mind*?
-
+### *How do we change our state of mind?*
 My reserach explores the dynamics of cognitive control --- e.g., attention, decision strategies, or task sets --- though the lens of optimal control theory. I try to make progress on these questions through a combination of **emperical experiments** (e.g., psychophysics, fMRI, EEG/OPM) and **computational modelling** (e.g., evidence accumulation, neural network modeling, state space inference, inverse optimal control).
-
 <br><br>
-
 I completed my BSc at Queen's University and my MSc at University of Western Ontario, working with [Ingrid Johnsrude](https://sites.google.com/site/johnsrudeconchlab/home). During my PhD at Brown University I worked with [Amitai Shenhav](https://www.shenhavlab.org/), [Michael J. Frank](https://www.lnccbrown.com/), and [Matthew Nassar](https://sites.brown.edu/mattlab/). 
-
 <br><br>
-
 I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, working with [Jonathan Cohen](https://ncclab.princeton.edu/), [Nathaniel Daw](https://dawlab.princeton.edu/), and [Jonathan Pillow](https://pillowlab.princeton.edu/). 
-
 <br>
-
 [[Curriculum Vitae](./assets/CV/hritz_CV.pdf)]
-
-
 <br><br><br>
 
 
