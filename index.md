@@ -20,11 +20,20 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
 
 ## Preprints
 
+- **Humans actively reconfigure neural task states**
+  <br>
+  **Ritz, H.**, Jha, A., Pillow, J.W., Daw, N.D., & Cohen, J.D.
+  <br>
+  [[preprint](https://doi.org/10.1101/2024.09.29.615736)] 
+
+
 - **Phantom controllers: Misspecified models create the false appearance of adaptive control during value-based choice**
   <br>
   **Ritz, H.+**, Frömer, R.+, & Shenhav, A. (+ equal)
   <br>
   [[preprint](https://doi.org/10.1101/2023.01.18.524640)] 
+
+
 
  
 
@@ -175,6 +184,16 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
 
 
 ## Conference Proceedings & Extended Abstracts
+
+
+- **Inferring System and Optimal Control Parameters of Closed-Loop Systems from Partial Observations**
+  <br>
+  Geadah, V., Arbelaiz, J., **Ritz, H.**, Daw, N., Cohen, J.D., Pillow J. (2024) 
+  <br>
+  _IEEE Decision and Control_
+  <br>
+  [[pdf](./assets/papers/2024_CDC.pdf)]
+
 
 - **Task preparation is reflected in neural state space dynamics**
   <br>
