@@ -35,13 +35,7 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
 
 
 
- 
-
 <br>
-
-
-
-
 
 
 
