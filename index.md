@@ -189,13 +189,20 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   [[pdf](./assets/papers/2024_CDC.pdf)]
 
 
+- **Dynamic neural control of task representations in humans and neural networks**
+  <br>
+  **Ritz, H.**, Jha, A., Pillow, J., Daw, N., & Cohen J.D. (2024) 
+  <br>
+  _Cognitive Computational Neuroscience_
+  <br>
+
+
 - **Task preparation is reflected in neural state space dynamics**
   <br>
   **Ritz, H.**, Jha, A., Pillow, J., & Cohen J.D. (2023) 
   <br>
   _Cognitive Computational Neuroscience_
   <br>
-  [[pdf](./assets/papers/2023_CCN.pdf)] [[poster](./assets/posters/2023_CCN_poster.pdf)]
 
 
 - **Continuous and Discrete Transitions during Task-Switching**
