@@ -9,7 +9,7 @@ I completed my BSc at Queen's University and my MSc at University of Western Ont
 <br><br>
 I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, working with [Jonathan Cohen](https://ncclab.princeton.edu/), [Nathaniel Daw](https://dawlab.princeton.edu/), and [Jonathan Pillow](https://pillowlab.princeton.edu/). 
 <br>
-[[Curriculum Vitae](./assets/CV/hritz_CV.pdf)]
+[[Curriculum Vitae](./assets/CV/Ritz-CV.pdf)]
 <br><br><br>
 
 
