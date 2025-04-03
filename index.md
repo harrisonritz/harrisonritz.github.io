@@ -7,7 +7,7 @@ My research explores the dynamics of cognitive control --- e.g., attention, deci
 <br><br>
 I completed my BSc at Queen's University and my MSc at University of Western Ontario, working with [Ingrid Johnsrude](https://sites.google.com/site/johnsrudeconchlab/home). During my PhD at Brown University I worked with [Amitai Shenhav](https://www.shenhavlab.org/), [Michael J. Frank](https://www.lnccbrown.com/), and [Matthew Nassar](https://sites.brown.edu/mattlab/). 
 <br><br>
-I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, working with [Jonathan Cohen](https://ncclab.princeton.edu/), [Nathaniel Daw](https://dawlab.princeton.edu/), and [Jonathan Pillow](https://pillowlab.princeton.edu/). 
+I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, working with [Jonathan Cohen](https://ncclab.princeton.edu/) and [Nathaniel Daw](https://dawlab.princeton.edu/). 
 <br>
 [[Curriculum Vitae](./assets/CV/Ritz-CV.pdf)]
 <br><br><br>
@@ -22,7 +22,7 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
 
 - **Humans actively reconfigure neural task states**
   <br>
-  **Ritz, H.**, Jha, A., Pillow, J.W., Daw, N.D., & Cohen, J.D.
+  **Ritz, H.**, Jha, A., Daw, N.D., & Cohen, J.D.
   <br>
   [[preprint](https://doi.org/10.1101/2024.09.29.615736)] 
 
