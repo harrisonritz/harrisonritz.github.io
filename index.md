@@ -25,7 +25,7 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   **Ritz, H.**, Jha, A., Daw, N.D., & Cohen, J.D.
   <br>
   [[preprint](https://doi.org/10.1101/2024.09.29.615736)]
-  [[*StateSpaceAnalysis.jl*](https://github.com/harrisonritz/StateSpaceAnalysis.jl)] 
+  [[StateSpaceAnalysis.jl](https://github.com/harrisonritz/StateSpaceAnalysis.jl)] 
 
 
 - **Phantom controllers: Misspecified models create the false appearance of adaptive control during value-based choice**
