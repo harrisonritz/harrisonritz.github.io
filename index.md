@@ -20,7 +20,7 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
 
 ## Preprints
 
-- **Humans actively reconfigure neural task states**
+- **Convergent neural dynamical systems for task control in artificial networks and human brains**
   <br>
   **Ritz, H.**, Jha, A., Daw, N.D., & Cohen, J.D.
   <br>
