@@ -3,9 +3,9 @@ layout: homepage
 ---
 <br>
 ### *How do we change our state of mind?*
-My research explores the dynamics of cognitive control --- e.g., attention, decision strategies, or task sets --- though the lens of optimal control theory. I try to make progress on these questions through a combination of **empirical experiments** (e.g., psychophysics, fMRI, EEG/OPM) and **computational modelling** (e.g., evidence accumulation, neural network modeling, state space inference, inverse optimal control).
+My research explores the dynamics of cognitive control --- e.g., attention, decision strategies, or task sets --- though the lens of optimal control theory. I approach these questions through a combination of **empirical experimentation** (e.g., psychophysics, fMRI, EEG/OPM) and **computational modelling** (e.g., evidence accumulation, neural network modeling, state space inference, inverse optimal control).
 <br><br>
-I completed my BSc at Queen's University and my MSc at University of Western Ontario, working with [Ingrid Johnsrude](https://sites.google.com/site/johnsrudeconchlab/home). During my PhD at Brown University I worked with [Amitai Shenhav](https://www.shenhavlab.org/), [Michael J. Frank](https://www.lnccbrown.com/), and [Matthew Nassar](https://sites.brown.edu/mattlab/). 
+I completed my BSc at Queen's University and my MSc at University of Western Ontario, both working with [Ingrid Johnsrude](https://sites.google.com/site/johnsrudeconchlab/home). During my PhD at Brown University I worked with [Amitai Shenhav](https://www.shenhavlab.org/), [Michael J. Frank](https://www.lnccbrown.com/), and [Matthew Nassar](https://sites.brown.edu/mattlab/). 
 <br><br>
 I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, working with [Jonathan Cohen](https://ncclab.princeton.edu/) and [Nathaniel Daw](https://dawlab.princeton.edu/). 
 <br>
@@ -25,16 +25,19 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   **Ritz, H.**, Jha, A., Daw, N.D., & Cohen, J.D.
   <br>
   [[preprint](https://doi.org/10.1101/2024.09.29.615736)]
-  [[StateSpaceAnalysis.jl](https://github.com/harrisonritz/StateSpaceAnalysis.jl)] 
+  [[StateSpaceAnalysis.jl](https://github.com/harrisonritz/StateSpaceAnalysis.jl)]
 
+- **Adaptive behavior is guided by integrated representations of controlled and non-controlled information**
+  <br>
+  Huang, B., **Ritz, H.**, Jiang, J.
+  <br>
+  [[preprint](https://doi.org/10.1101/2025.08.07.669231)]
 
 - **Phantom controllers: Misspecified models create the false appearance of adaptive control during value-based choice**
   <br>
   **Ritz, H.+**, Frömer, R.+, & Shenhav, A. (+ equal)
   <br>
   [[preprint](https://doi.org/10.1101/2023.01.18.524640)] 
-
-
 
 <br>
 
