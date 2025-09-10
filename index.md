@@ -3,7 +3,7 @@ layout: homepage
 ---
 <br>
 ### *How do we change our state of mind?*
-My research explores the dynamics of cognitive control --- e.g., attention, decision strategies, or task sets --- though the lens of optimal control theory. I approach these questions through a combination of **empirical experimentation** (e.g., psychophysics, fMRI, EEG/OPM) and **computational modelling** (e.g., evidence accumulation, neural network modeling, state space inference, inverse optimal control).
+My research explores the dynamics of cognitive control --- e.g., attention, decision strategies, or task sets --- though the lens of optimal control theory. I approach these questions through a combination of **empirical experimentation** (e.g., psychophysics, OPM-MEG, fMRI, EEG) and **computational modelling** (e.g., evidence accumulation, neural network modeling, state space inference, inverse optimal control).
 <br><br>
 I completed my BSc at Queen's University and my MSc at University of Western Ontario, both working with [Ingrid Johnsrude](https://sites.google.com/site/johnsrudeconchlab/home). During my PhD at Brown University I worked with [Amitai Shenhav](https://www.shenhavlab.org/), [Michael J. Frank](https://www.lnccbrown.com/), and [Matthew Nassar](https://sites.brown.edu/mattlab/). 
 <br><br>
@@ -166,9 +166,10 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
 
 - **Inferring System and Optimal Control Parameters of Closed-Loop Systems from Partial Observations**
   <br>
-  Geadah, V., Arbelaiz, J., **Ritz, H.**, Daw, N., Cohen, J.D., Pillow J. (2024)  _IEEE Decision and Control_
+  Geadah, V., Arbelaiz, J., **Ritz, H.**, Daw, N., Cohen, J.D., Pillow J. (2024)  _IEEE Conference on Decision and Control_
   <br>
-  [[pdf](./assets/papers/2024_CDC.pdf)]
+  [[web]](https://doi.org/10.1109/CDC56724.2024.10886179)
+  [[pdf](./assets/papers/Inferring_System_and_Optimal_Control_Parameters_of_Closed-Loop_Systems_from_Partial_Observations.pdf)]
 
 
 - **Dynamic neural control of task representations in humans and neural networks**
@@ -186,7 +187,7 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
 - **Continuous and Discrete Transitions during Task-Switching**
   <br>
   **Ritz, H.**, Wolf, W., & Cohen J.D. (2023) _Cognitive Science Society_
-  <br> 
+  <br>
   [[pdf](./assets/papers/Ritz_2023_CogSci.pdf)] [[poster](./assets/posters/2023_cogsci_poster.pdf)]
 
 
