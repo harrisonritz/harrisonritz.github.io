@@ -123,6 +123,8 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   [[pdf](./assets/papers/Leng et al. - Dissociable influences of reward and punishment on adaptive cognitive control.pdf)]
   [[web](https://doi.org/10.1371/journal.pcbi.1009737)]
   [[supplementary materials](./assets/papers/pcbi.1009737.s001.pdf)]
+  [[code](https://github.com/Jasonleng/RewardPenaltyPaper)]
+  [[data](https://osf.io/24ud5/)]
 
 
 - **Bridging motor and cognitive control: It’s about time! (Spotlight)**
