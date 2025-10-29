@@ -82,7 +82,7 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   <br> 
   [[pdf](./assets/papers/Rier et al. 2023 - Test-retest reliability of the human connectome - An OPM-MEG study.pdf)] 
   [[web](https://doi.org/10.1162/imag_a_00020)]
-  [[data + code](https://doi.org/10.5281/zenodo.7477060)]
+  [[code + data](https://doi.org/10.5281/zenodo.7477060)]
 
 
 - **Parametric cognitive load reveals hidden costs in the neural processing of perfectly intelligible degraded speech**
