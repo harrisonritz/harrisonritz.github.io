@@ -18,7 +18,14 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
 
 
 
-## Preprints
+
+
+
+
+## Publications
+
+
+### Preprints
 
 - **Convergent neural dynamical systems for task control in artificial networks and human brains**
   <br>
@@ -27,31 +34,37 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   [[preprint](https://doi.org/10.1101/2024.09.29.615736)]
   [[StateSpaceAnalysis.jl](https://github.com/harrisonritz/StateSpaceAnalysis.jl)]
 
-- **Adaptive behavior is guided by integrated representations of controlled and non-controlled information**
-  <br>
-  Huang, B., **Ritz, H.**, Jiang, J.
-  <br>
-  [[preprint](https://doi.org/10.1101/2025.08.07.669231)]
-
-- **Phantom controllers: Misspecified models create the false appearance of adaptive control during value-based choice**
-  <br>
-  **Ritz, H.+**, Frömer, R.+, & Shenhav, A. (+ equal)
-  <br>
-  [[preprint](https://doi.org/10.1101/2023.01.18.524640)] 
-
 <br>
 
 
 
+### In Press
+
+- **Misspecified models create the appearance of adaptive control during value-based choice**
+  <br>
+  **Ritz, H.**, Frömer, R., & Shenhav, A. (In Press) _Communications Psychology_
+  <br>
+  [[preprint](https://doi.org/10.1101/2023.01.18.524640)]
+  [[code](https://github.com/shenhavlab/appearance-of-adaptive-control)]
 
 
-## Journal Publications
+
+### 2025
+
+- **Adaptive behavior is guided by integrated representations of controlled and non-controlled information**
+  <br>
+  Huang, B., **Ritz, H.**, Jiang, J. (2025) _eLife_
+  <br>
+  [[pdf](./assets/papers/Huang et al. 2025 - Adaptive behavior is guided by integrated representations of controlled and non-controlled information.pdf)]
+  [[web](https://doi.org/10.7554/eLife.108673.1)]
+
+
 
 ### 2024
 
 - **Orthogonal neural encoding of targets and distractors supports multivariate cognitive control**
   <br>
-  **Ritz, H.** & Shenhav, A. (2024) _Nature Human Behaviour_
+  **Ritz, H.** & Shenhav, A. (2024b) _Nature Human Behaviour_
   <br>
   [[pdf](./assets/papers/Ritz and Shenhav 2024 - Orthogonal neural encoding of targets and distractors supports multivariate cognitive control.pdf)] 
   [[web](https://doi.org/10.1038/s41562-024-01826-7)] 
@@ -59,19 +72,18 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   [[code](https://github.com/shenhavlab/PACT_fMRI_public)]
   [[data](https://openneuro.org/datasets/ds004909/versions/1.1.0)]
 
-
-
-### 2023
-
 - **Humans reconfigure target and distractor processing to address distinct task demands**
   <br>
-  **Ritz, H.** & Shenhav, A. (2023) _Psychological Review_
+  **Ritz, H.** & Shenhav, A. (2024a) _Psychological Review_
   <br> 
   [[pdf](./assets/papers/Ritz and Shenhav 2023 - Humans reconfigure target and distractor processing to address distinct task demands.pdf)] 
   [[web](https://doi.org/10.1037/rev0000442)] 
   [[supplementary materials](./assets/papers/rev0000442_sm.pdf)] 
   [[data + code](https://github.com/shenhavlab/PACT-public)]
 
+
+
+### 2023
 
 - **Test-Retest Reliability of the Human Connectome: An OPM-MEG study**
   <br>
