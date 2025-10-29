@@ -162,8 +162,8 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   <br>
   Geadah, V., Arbelaiz, J., **Ritz, H.**, Daw, N., Cohen, J.D., Pillow J. (2024)  _IEEE Conference on Decision and Control_
   <br>
-  [[web]](https://doi.org/10.1109/CDC56724.2024.10886179)
   [[pdf](./assets/papers/Inferring_System_and_Optimal_Control_Parameters_of_Closed-Loop_Systems_from_Partial_Observations.pdf)]
+  [[web]](https://doi.org/10.1109/CDC56724.2024.10886179)
 
 
 - **Dynamic neural control of task representations in humans and neural networks**
@@ -182,7 +182,7 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   <br>
   **Ritz, H.**, Wolf, W., & Cohen J.D. (2023) _Cognitive Science Society_
   <br>
-  [[pdf](./assets/papers/Ritz_2023_CogSci.pdf)] 
+  [[pdf](./assets/papers/Ritz_2023_CogSci.pdf)]
   [[poster](./assets/posters/2023_cogsci_poster.pdf)]
 
 
