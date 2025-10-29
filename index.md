@@ -3,13 +3,11 @@ layout: homepage
 ---
 <br>
 ### *How do we change our state of mind?*
-My research explores the dynamics of cognitive control --- e.g., attention, decision strategies, or task sets --- though the lens of optimal control theory. I approach these questions through a combination of **empirical experimentation** (e.g., psychophysics, OPM-MEG, fMRI, EEG) and **computational modelling** (e.g., evidence accumulation, neural network modeling, state space inference, inverse optimal control).
+My research explores the dynamics of cognitive control --- e.g., attention, decision strategies, or task sets --- though the lens of optimal control theory. I approach these questions through a combination of **empirical experimentation** (e.g., psychophysics, OPM-MEG, fMRI, EEG) and **computational modelling** (e.g., evidence accumulation, neural network modeling, state space inference, inverse optimal control). [[Curriculum Vitae](./assets/CV/Ritz-CV.pdf)]
 <br><br>
-I completed my BSc at Queen's University and my MSc at University of Western Ontario, both working with [Ingrid Johnsrude](https://sites.google.com/site/johnsrudeconchlab/home). During my PhD at Brown University I worked with [Amitai Shenhav](https://www.shenhavlab.org/), [Michael J. Frank](https://www.lnccbrown.com/), and [Matthew Nassar](https://sites.brown.edu/mattlab/). 
+I completed my BSc at Queen's University and my MSc at University of Western Ontario, both working with [Ingrid Johnsrude](https://sites.google.com/site/johnsrudeconchlab/home). During my PhD at Brown University, I worked with [Amitai Shenhav](https://www.shenhavlab.org/), [Michael J. Frank](https://www.lnccbrown.com/), and [Matthew Nassar](https://sites.brown.edu/mattlab/). 
 <br><br>
 I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, working with [Jonathan Cohen](https://ncclab.princeton.edu/) and [Nathaniel Daw](https://dawlab.princeton.edu/). 
-<br>
-[[Curriculum Vitae](./assets/CV/Ritz-CV.pdf)]
 <br><br><br>
 
 
@@ -75,7 +73,7 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   [[pdf](./assets/papers/Ritz and Shenhav 2023 - Humans reconfigure target and distractor processing to address distinct task demands.pdf)] 
   [[web](https://doi.org/10.1037/rev0000442)] 
   [[supplementary materials](./assets/papers/rev0000442_sm.pdf)] 
-  [[data + code](https://github.com/shenhavlab/PACT-public)]
+  [[code + data](https://github.com/shenhavlab/PACT-public)]
 
 
 - **Test-Retest Reliability of the Human Connectome: An OPM-MEG study**
