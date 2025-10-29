@@ -34,8 +34,6 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   [[preprint](https://doi.org/10.1101/2024.09.29.615736)]
   [[StateSpaceAnalysis.jl](https://github.com/harrisonritz/StateSpaceAnalysis.jl)]
 
-<br>
-
 
 
 ### In Press
@@ -49,7 +47,7 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
 
 
 
-### 2025
+### Published
 
 - **Adaptive behavior is guided by integrated representations of controlled and non-controlled information**
   <br>
@@ -58,9 +56,6 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   [[pdf](./assets/papers/Huang et al. 2025 - Adaptive behavior is guided by integrated representations of controlled and non-controlled information.pdf)]
   [[web](https://doi.org/10.7554/eLife.108673.1)]
 
-
-
-### 2024
 
 - **Orthogonal neural encoding of targets and distractors supports multivariate cognitive control**
   <br>
@@ -72,6 +67,7 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   [[code](https://github.com/shenhavlab/PACT_fMRI_public)]
   [[data](https://openneuro.org/datasets/ds004909/versions/1.1.0)]
 
+
 - **Humans reconfigure target and distractor processing to address distinct task demands**
   <br>
   **Ritz, H.** & Shenhav, A. (2024a) _Psychological Review_
@@ -82,9 +78,6 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   [[data + code](https://github.com/shenhavlab/PACT-public)]
 
 
-
-### 2023
-
 - **Test-Retest Reliability of the Human Connectome: An OPM-MEG study**
   <br>
   Rier, L., Michelmann, S., **Ritz, H.**, Shah, V., Hill, R.M., Osborne, J., Doyle, C., Holmes, N., Bowtell, R., Brookes, M.J., Norman, K.A., Hasson, U., Cohen, J.D., Boto, E. (2023) _Imaging Neuroscience_
@@ -93,10 +86,6 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   [[web](https://doi.org/10.1162/imag_a_00020)]
   [[data + code](https://doi.org/10.5281/zenodo.7477060)]
 
-
-
-
-### 2022
 
 - **Parametric cognitive load reveals hidden costs in the neural processing of perfectly intelligible degraded speech**
   <br>
@@ -115,7 +104,6 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   [[supplementary materials](./assets/papers/1-s2.0-S0010027722000919-mmc1.pdf)]
 
 
-
 - **Cognitive control as a multivariate optimization problem**
   <br>
   **Ritz, H.**, Leng, X., & Shenhav, A. (2022) _Journal of Cognitive Neuroscience_
@@ -123,10 +111,6 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   [[pdf](./assets/papers/Ritz et al. 2022 - Cognitive Control as a Multivariate Optimization Problem.pdf)]
   [[web](https://doi.org/10.1162/jocn_a_01822)]
 
-
-
-
-### 2018 - 2021
 
 - **Dissociable influences of reward and punishment on adaptive cognitive control**
   <br>
@@ -147,7 +131,6 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   [[web](https://doi.org/10.1016/j.tics.2019.11.005)]
 
 
-
 - **Dissociable forms of uncertainty-driven representational change across the human brain**
   <br>
   Nassar, M.R., McGuire, J.T., **Ritz, H.**, & Kable, J. (2019) _Journal of Neuroscience_
@@ -162,7 +145,6 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   <br> 
   [[pdf](./assets/papers/Ritz et al. 2018 - A Control Theoretic Model of Adaptive Learning in Dynamic Environments.pdf)]
   [[web](https://doi.org/10.1162/jocn_a_01289)]
-
 
 
 <br>
@@ -202,7 +184,8 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   <br>
   **Ritz, H.**, Wolf, W., & Cohen J.D. (2023) _Cognitive Science Society_
   <br>
-  [[pdf](./assets/papers/Ritz_2023_CogSci.pdf)] [[poster](./assets/posters/2023_cogsci_poster.pdf)]
+  [[pdf](./assets/papers/Ritz_2023_CogSci.pdf)] 
+  [[poster](./assets/posters/2023_cogsci_poster.pdf)]
 
 
 - **Orthogonal neural encoding of targets and distractors supports cognitive control**
