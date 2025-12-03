@@ -49,7 +49,7 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
 
 - **Adaptive behavior is guided by integrated representations of controlled and non-controlled information**
   <br>
-  Huang, B., **Ritz, H.**, Jiang, J. (2025) _eLife_
+  Huang, B., **Ritz, H.**, Jiang, J. (2025) _eLife (not revised)_
   <br>
   [[pdf](./assets/papers/Huang et al. 2025 - Adaptive behavior is guided by integrated representations of controlled and non-controlled information.pdf)]
   [[web](https://doi.org/10.7554/eLife.108673.1)]
