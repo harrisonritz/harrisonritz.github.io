@@ -3,20 +3,12 @@ layout: homepage
 ---
 <br>
 ### *How do we change our state of mind?*
-My research explores the dynamics of cognitive control --- e.g., attention, decision strategies, or task sets --- though the lens of optimal control theory. I approach these questions through a combination of **empirical experimentation** (e.g., psychophysics, OPM-MEG, fMRI, EEG) and **computational modelling** (e.g., evidence accumulation, neural network modeling, state space inference, inverse optimal control). [[Curriculum Vitae](./assets/CV/Ritz-CV.pdf)]
+My research explores the dynamics of cognitive control --- e.g., attention, decision strategies, or task sets --- though the lens of optimal control theory. I approach these questions through a combination of **empirical experimentats** (e.g., psychophysics, fMRI OPM-MEG, SQUID-MEG) and **computational modelling** (e.g., evidence accumulation, neural network modeling, state space inference, inverse optimal control). [[Curriculum Vitae](./assets/CV/Ritz-CV_2026-03.pdf)]
 <br><br>
-I completed my BSc at Queen's University and my MSc at University of Western Ontario, both working with [Ingrid Johnsrude](https://sites.google.com/site/johnsrudeconchlab/home). During my PhD at Brown University, I worked with [Amitai Shenhav](https://www.shenhavlab.org/), [Michael J. Frank](https://www.lnccbrown.com/), and [Matthew Nassar](https://sites.brown.edu/mattlab/). 
+I completed my BSc at Queen's University and my MSc at University of Western Ontario, both working with [Ingrid Johnsrude](https://sites.google.com/site/johnsrudeconchlab/home). During my PhD at Brown University, I worked with [Amitai Shenhav](https://www.shenhavlab.org/), [Michael J. Frank](https://www.lnccbrown.com/), and [Matthew Nassar](https://sites.brown.edu/mattlab/). I recently completed a C.V. Starr Fellowship at the Princeton Neuroscience Institute, working with [Jonathan Cohen](https://ncclab.princeton.edu/) and [Nathaniel Daw](https://dawlab.princeton.edu/). 
 <br><br>
-I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, working with [Jonathan Cohen](https://ncclab.princeton.edu/) and [Nathaniel Daw](https://dawlab.princeton.edu/). 
+I am currently a Connected Minds Fellow at Queen's Univeristy, working with [Gunnar Blohm](https://compneurosci.com), and a visting fellow at the Rotman Research Institute, working with [Björn Herrmann](https://www.auditoryaging.com) and [Douglas Cheyne](https://lab.research.sickkids.ca/cheyne/).
 <br><br><br>
-
-
-
-
-
-
-
-
 
 
 
@@ -29,27 +21,32 @@ I am currently a C.V. Starr Fellow at the Princeton Neuroscience Institute, work
   <br>
   **Ritz, H.**, Jha, A., Daw, N.D., & Cohen, J.D.
   <br>
-  [[preprint](https://doi.org/10.1101/2024.09.29.615736)]
+  [[preprint](https://doi.org/10.1101/2024.09.29.615736)] 
   [[StateSpaceAnalysis.jl](https://github.com/harrisonritz/StateSpaceAnalysis.jl)]
 
-
-
-### In Press
-
-- **Misspecified models create the appearance of adaptive control during value-based choice**
+- **Ten Simple Rules for AI-Assisted Coding in Science.** 
   <br>
-  **Ritz, H.**, Frömer, R., & Shenhav, A. (In Press) _Communications Psychology_
+  Bridgeford, E., Campbell, I.D., Chen, Z., Lin, Z., **Ritz, H.**, Vandekerckhove, J., Poldrack. R.A. [middle authors alphabetical]
   <br>
-  [[preprint](https://doi.org/10.1101/2023.01.18.524640)]
-  [[code](https://github.com/shenhavlab/appearance-of-adaptive-control)]
-
+  [[preprint](https://www.doi.org/10.48550/arXiv.2510.22254)] 
+  [[ebook](https://www.poldracklab.org/10sr_ai_assisted_coding/coverpage)]
 
 
 ### Published
 
+- **Misspecified models create the appearance of adaptive control during value-based choice**
+  <br>
+  **Ritz, H.**, Frömer, R., & Shenhav, A. (2026) _Communications Psychology_
+  <br>
+  [[pdf](./assets/papers/Ritz et al. 2026 - Misspecified models create the appearance of adaptive control during value-based choice.pdf)] 
+  [[web](https://doi.org/10.1101/2023.01.18.524640)] 
+  [[supplementary materials](./assets/papers/Ritz-et-al_2026_CommPsych_SuppInfo.pdf)] 
+  [[code](https://github.com/shenhavlab/appearance-of-adaptive-control)] 
+
+
 - **Adaptive behavior is guided by integrated representations of controlled and non-controlled information**
   <br>
-  Huang, B., **Ritz, H.**, Jiang, J. (2025) _eLife (not revised)_
+  Huang, B., **Ritz, H.**, Jiang, J. (2025) _eLife_
   <br>
   [[pdf](./assets/papers/Huang et al. 2025 - Adaptive behavior is guided by integrated representations of controlled and non-controlled information.pdf)]
   [[web](https://doi.org/10.7554/eLife.108673.1)]
