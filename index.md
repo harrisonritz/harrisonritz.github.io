@@ -22,6 +22,7 @@ I am currently a Connected Minds Fellow at Queen's Univeristy, working with [Gun
   **Ritz, H.**, Jha, A., Daw, N.D., & Cohen, J.D.
   <br>
   [[preprint](https://doi.org/10.1101/2024.09.29.615736)] 
+  [[SuperLab Talk](https://www.youtube.com/watch?v=MdOkOjSa7JA)]
   [[StateSpaceAnalysis.jl](https://github.com/harrisonritz/StateSpaceAnalysis.jl)]
 
 - **Ten Simple Rules for AI-Assisted Coding in Science.** 
