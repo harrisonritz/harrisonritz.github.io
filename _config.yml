@@ -1,10 +1,10 @@
 title: Harrison Ritz
-position: C.V. Starr Fellow
-affiliation: Princeton University
-affiliation_link: https://pni.princeton.edu/people/harrison-ritz
-email: hritz (at) princeton.edu
-email_address: hritz@princeton.edu
-keywords: Harrison Ritz, Princeton, Brown, Computational Cognitive Neuroscience, Psychology, Cognitive Science, Cognitive Control, Attention, Planning, Cybernetics
+position: Connected Minds Fellow
+affiliation: Queen's Univeristy & Rotman Research Institute
+affiliation_link:
+email: hjr (at) queensu.ca
+email_address: hjr@queensu.ca
+keywords: Harrison Ritz, Queens, Princeton, Brown, Computational Cognitive Neuroscience, Psychology, Cognitive Science, Cognitive Control, Attention, Planning, Cybernetics
 google_scholar: https://scholar.google.com/citations?user=2MGy7zwAAAAJ
 twitter: https://twitter.com/harrison_ritz
 github_link: https://github.com/harrisonritz
@@ -13,6 +13,6 @@ avatar: ./assets/img/HarrisonRitz.jpg
 google_analytics: UA-31678746-1
 favicon: ./assets/img/HarrisonRitz.jpg
 favicon_dark: ./assets/img/HarrisonRitz.jpg
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
+description: Harrison Ritz PhD
 canonical: https://harrisonritz.github.io
 remote_theme: yaoyao-liu/minimal-light
