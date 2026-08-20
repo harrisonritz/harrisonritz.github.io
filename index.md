@@ -3,7 +3,7 @@ layout: homepage
 ---
 <br>
 ### *How do we change our state of mind?*
-My research explores the dynamics of cognitive control --- e.g., attention, decision strategies, or task sets --- though the lens of optimal control theory. I approach these questions through a combination of **empirical experimentats** (e.g., psychophysics, fMRI OPM-MEG, SQUID-MEG) and **computational modelling** (e.g., evidence accumulation, neural network modeling, state space inference, inverse optimal control). 
+My research explores the dynamics of cognitive control --- e.g., shifting attention, decision strategies, or task sets --- though the lens of dynamical systems and control theory. I approach these questions through a combination of **empirical experiments** (e.g., psychophysics, fMRI, MEG) and **computational modelling** (e.g., evidence accumulation, neural network modelling, state-space inference, inverse optimal control). I am interested in how dynamic cognitive control contributes to mental disorders and changes over the lifespan.
 <br><br>
 I completed my BSc at Queen's University and my MSc at University of Western Ontario, both working with [Ingrid Johnsrude](https://sites.google.com/site/johnsrudeconchlab/home). During my PhD at Brown University, I worked with [Amitai Shenhav](https://www.shenhavlab.org/), [Michael J. Frank](https://www.lnccbrown.com/), and [Matthew Nassar](https://sites.brown.edu/mattlab/). I recently completed a C.V. Starr Fellowship at the Princeton Neuroscience Institute, working with [Jonathan Cohen](https://ncclab.princeton.edu/) and [Nathaniel Daw](https://dawlab.princeton.edu/).
 <br><br>
@@ -20,9 +20,9 @@ I am currently a Connected Minds Fellow at Queen's Univeristy, working with [Gun
 
 - **Convergent neural dynamical systems for task control in artificial networks and human brains**
   <br>
-  **Ritz, H.**, Jha, A., Daw, N.D., & Cohen, J.D. (In Press) Current Biology
+  **Ritz, H.**, Jha, A., Daw, N.D., & Cohen, J.D. (In Press) _Current Biology_
   <br>
-  [[pdf]](./assets/Ritz-et-al_2026_inter-trial-convergence.pdf)]
+  [[pdf](./assets/Ritz-et-al_2026_inter-trial-convergence.pdf)]
   [[preprint](https://doi.org/10.1101/2024.09.29.615736)] 
   [[SuperLab Talk](https://www.youtube.com/watch?v=MdOkOjSa7JA)]
   [[StateSpaceAnalysis.jl](https://github.com/harrisonritz/StateSpaceAnalysis.jl)]
@@ -163,7 +163,7 @@ I am currently a Connected Minds Fellow at Queen's Univeristy, working with [Gun
   Geadah, V., Arbelaiz, J., **Ritz, H.**, Daw, N., Cohen, J.D., Pillow J. (2024)  _IEEE Conference on Decision and Control_
   <br>
   [[pdf](./assets/papers/Inferring_System_and_Optimal_Control_Parameters_of_Closed-Loop_Systems_from_Partial_Observations.pdf)]
-  [[web]](https://doi.org/10.1109/CDC56724.2024.10886179)
+  [[web](https://doi.org/10.1109/CDC56724.2024.10886179)]
 
 
 - **Dynamic neural control of task representations in humans and neural networks**
