@@ -18,7 +18,7 @@ I am currently a Connected Minds Fellow at Queen's Univeristy, working with [Gun
 
 ### Published
 
-- **Convergent neural dynamical systems for task control in artificial networks and human brains**
+- **Inter-trial convergence of neural task states supports cognitive flexibility**
   <br>
   **Ritz, H.**, Jha, A., Daw, N.D., & Cohen, J.D. (In Press) _Current Biology_
   <br>
@@ -27,6 +27,15 @@ I am currently a Connected Minds Fellow at Queen's Univeristy, working with [Gun
   [[SuperLab Talk](https://www.youtube.com/watch?v=MdOkOjSa7JA)]
   [[StateSpaceAnalysis.jl](https://github.com/harrisonritz/StateSpaceAnalysis.jl)]
 
+- **Adaptive behavior is guided by integrated representations of controlled and non-controlled information**
+  <br>
+  Huang, B., **Ritz, H.**, Jiang, J. (2026) _eLife_
+  <br>
+  [[pdf](./assets/papers/Huang et al. 2026 - Adaptive behavior is guided by integrated representations of controlled and non-controlled information.pdf)]
+  [[web](https://doi.org/10.7554/eLife.108673.5)]
+
+
+/Users/harrisonritz/repos/harrisonritz.github.io/assets/papers/elife-108673-v1.pdf
 
 - **Twelve quick tips for AI-assisted coding in science** 
   <br>
@@ -35,15 +44,6 @@ I am currently a Connected Minds Fellow at Queen's Univeristy, working with [Gun
   [[pdf](./assets/papers/journal.pcbi.1014428.pdf)] 
   [[web](https://doi.org/10.1371/journal.pcbi.1014428)] 
   [[ebook](https://www.poldracklab.org/12qt_ai_assisted_coding/coverpage.html)] 
-
-
-- **Adaptive behavior is guided by integrated representations of controlled and non-controlled information**
-  <br>
-  Huang, B., **Ritz, H.**, Jiang, J. (2025) _eLife_
-  <br>
-  [[pdf](./assets/papers/Huang et al. 2025 - Adaptive behavior is guided by integrated representations of controlled and non-controlled information.pdf)]
-  [[web](https://doi.org/10.7554/eLife.108673.1)]
-
 
 - **Misspecified models create the appearance of adaptive control during value-based choice**
   <br>
