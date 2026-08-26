@@ -9,6 +9,8 @@ I completed my BSc at Queen's University and my MSc at University of Western Ont
 <br><br>
 I am currently a Connected Minds Fellow at Queen's Univeristy, working with [Gunnar Blohm](https://compneurosci.com), and a visting fellow at the Rotman Research Institute, working with [Björn Herrmann](https://www.auditoryaging.com) and [Douglas Cheyne](https://lab.research.sickkids.ca/cheyne/).
 <br>
+I am currently on the job market, looking for a tenure-track professor position at a Canadian University.
+<br><br>
 [[Curriculum Vitae](./assets/CV/Ritz-CV_2026-08.pdf)]
 <br><br><br>
 
