@@ -24,20 +24,18 @@ I am currently on the job market, looking for a tenure-track professor position 
   <br>
   **Ritz, H.**, Jha, A., Daw, N.D., & Cohen, J.D. (In Press) _Current Biology_
   <br>
-  [[pdf](./assets/Ritz-et-al_2026_inter-trial-convergence.pdf)]
-  [[preprint](https://doi.org/10.1101/2024.09.29.615736)] 
+  [[pdf](./assets/papers/Ritz et al. 2026 - Inter-trial convergence of neural task states supports cognitive flexibility.pdf)]
+  [[code](https://github.com/harrisonritz/convergent-neural-dynamical-systems)]
+  [[StateSpaceAnalysis.jl](https://github.com/harrisonritz/StateSpaceAnalysis.jl)]  
   [[SuperLab Talk](https://www.youtube.com/watch?v=MdOkOjSa7JA)]
-  [[StateSpaceAnalysis.jl](https://github.com/harrisonritz/StateSpaceAnalysis.jl)]
 
 
 - **Adaptive behavior is guided by integrated representations of controlled and non-controlled information**
   <br>
   Huang, B., **Ritz, H.**, Jiang, J. (2026) _eLife_
   <br>
-  [[pdf](/Users/harrisonritz/repos/harrisonritz.github.io/assets/papers/elife-108673-v1.pdf)]
+  [[pdf](./assets/papers/elife-108673-v1.pdf)]
   [[web](https://doi.org/10.7554/eLife.108673.5)]
-
-
 
 
 - **Twelve quick tips for AI-assisted coding in science** 
@@ -47,6 +45,7 @@ I am currently on the job market, looking for a tenure-track professor position 
   [[pdf](./assets/papers/journal.pcbi.1014428.pdf)] 
   [[web](https://doi.org/10.1371/journal.pcbi.1014428)] 
   [[ebook](https://www.poldracklab.org/12qt_ai_assisted_coding/coverpage.html)] 
+
 
 - **Misspecified models create the appearance of adaptive control during value-based choice**
   <br>
