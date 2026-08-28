@@ -22,9 +22,10 @@ I am currently on the job market, looking for a tenure-track professor position 
 
 - **Inter-trial convergence of neural task states supports cognitive flexibility**
   <br>
-  **Ritz, H.**, Jha, A., Daw, N.D., & Cohen, J.D. (In Press) _Current Biology_
+  **Ritz, H.**, Jha, A., Daw, N.D., & Cohen, J.D. (2026) _Current Biology_
   <br>
   [[pdf](./assets/papers/Ritz et al. 2026 - Inter-trial convergence of neural task states supports cognitive flexibility.pdf)]
+  [[web](https://doi.org/10.1016/j.cub.2026.07.028)]
   [[code](https://github.com/harrisonritz/convergent-neural-dynamical-systems)]
   [[StateSpaceAnalysis.jl](https://github.com/harrisonritz/StateSpaceAnalysis.jl)]
   [[SuperLab Talk](https://www.youtube.com/watch?v=MdOkOjSa7JA)]
