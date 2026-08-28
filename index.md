@@ -26,7 +26,7 @@ I am currently on the job market, looking for a tenure-track professor position 
   <br>
   [[pdf](./assets/papers/Ritz et al. 2026 - Inter-trial convergence of neural task states supports cognitive flexibility.pdf)]
   [[code](https://github.com/harrisonritz/convergent-neural-dynamical-systems)]
-  [[StateSpaceAnalysis.jl](https://github.com/harrisonritz/StateSpaceAnalysis.jl)]  
+  [[StateSpaceAnalysis.jl](https://github.com/harrisonritz/StateSpaceAnalysis.jl)]
   [[SuperLab Talk](https://www.youtube.com/watch?v=MdOkOjSa7JA)]
 
 
