@@ -168,7 +168,7 @@ I am currently on the job market, looking for a tenure-track professor position 
 
 - **Orthogonal Task Representation Enables Flexible Task Switching in Human OPM-MEG and Neural Networks**
   <br>
-  Liu, X., Nystrom, L., Mark P., DePinto N., Wolf W.A., Daw N., Kastner, S., Cohen J.D.#, **Ritz, H.**# (2023) _Cognitive Computational Neuroscience_. Extended Abstract [talk; spotlight (top 10%)]
+  Liu, X., Nystrom, L., Mark P., DePinto N., Wolf W.A., Daw N., Kastner, S., Cohen J.D.#, **Ritz, H.**# (2026) _Cognitive Computational Neuroscience_. Extended Abstract [talk; spotlight (top 10%)]
   <br>
 
 - **Inferring System and Optimal Control Parameters of Closed-Loop Systems from Partial Observations**
