@@ -29,15 +29,16 @@ I am currently on the job market, looking for a tenure-track professor position 
   [[SuperLab Talk](https://www.youtube.com/watch?v=MdOkOjSa7JA)]
   [[StateSpaceAnalysis.jl](https://github.com/harrisonritz/StateSpaceAnalysis.jl)]
 
+
 - **Adaptive behavior is guided by integrated representations of controlled and non-controlled information**
   <br>
   Huang, B., **Ritz, H.**, Jiang, J. (2026) _eLife_
   <br>
-  [[pdf](./assets/papers/Huang et al. 2026 - Adaptive behavior is guided by integrated representations of controlled and non-controlled information.pdf)]
+  [[pdf](/Users/harrisonritz/repos/harrisonritz.github.io/assets/papers/elife-108673-v1.pdf)]
   [[web](https://doi.org/10.7554/eLife.108673.5)]
 
 
-/Users/harrisonritz/repos/harrisonritz.github.io/assets/papers/elife-108673-v1.pdf
+
 
 - **Twelve quick tips for AI-assisted coding in science** 
   <br>
@@ -157,12 +158,22 @@ I am currently on the job market, looking for a tenure-track professor position 
 
 
 
-## Conference Proceedings
+## Peer-Reviewed Conference Abstracts
 
+- **Bayesian calibration for conference reviews**
+  <br>
+  **Ritz, H.** (2026) _Cognitive Computational Neuroscience_. Extended Abstract [spotlight (top 10%)]
+  <br>
+  [[poster](./assets/posters/2026_CCN_BayesChair_poster.pdf)]
+
+- **Orthogonal Task Representation Enables Flexible Task Switching in Human OPM-MEG and Neural Networks**
+  <br>
+  Liu, X., Nystrom, L., Mark P., DePinto N., Wolf W.A., Daw N., Kastner, S., Cohen J.D.#, **Ritz, H.**# (2023) _Cognitive Computational Neuroscience_. Extended Abstract [talk; spotlight (top 10%)]
+  <br>
 
 - **Inferring System and Optimal Control Parameters of Closed-Loop Systems from Partial Observations**
   <br>
-  Geadah, V., Arbelaiz, J., **Ritz, H.**, Daw, N., Cohen, J.D., Pillow J. (2024)  _IEEE Conference on Decision and Control_
+  Geadah, V., Arbelaiz, J., **Ritz, H.**, Daw, N., Cohen, J.D., Pillow J. (2024)  _IEEE Conference on Decision and Control_ [talk]
   <br>
   [[pdf](./assets/papers/Inferring_System_and_Optimal_Control_Parameters_of_Closed-Loop_Systems_from_Partial_Observations.pdf)]
   [[web](https://doi.org/10.1109/CDC56724.2024.10886179)]
@@ -207,7 +218,7 @@ I am currently on the job market, looking for a tenure-track professor position 
 
 - **Parametric control of distractor-oriented attention**
   <br>
-  **Ritz, H.** & Shenhav, A. (2019) _Cognitive Science Society_
+  **Ritz, H.** & Shenhav, A. (2019) _Cognitive Science Society_ [talk]
   
 
 - **Decisions about reward and effort for the learning and control of dynamical systems**
@@ -219,7 +230,7 @@ I am currently on the job market, looking for a tenure-track professor position 
 
 - **Behavioral evidence for PID-like feedback control**
   <br>
-  **Ritz, H.**, Nassar, M.R., Frank, M.J., & Shenhav, A. (2017) _Reinforcement Learning and Decision Making_
+  **Ritz, H.**, Nassar, M.R., Frank, M.J., & Shenhav, A. (2017) _Reinforcement Learning and Decision Making_ [poster spotlight]
 
 
 <br>
