@@ -7,7 +7,7 @@ My research explores the dynamics of cognitive control --- e.g., shifting attent
 <br><br>
 I completed my BSc at Queen's University and my MSc at University of Western Ontario, both working with [Ingrid Johnsrude](https://sites.google.com/site/johnsrudeconchlab/home). During my PhD at Brown University, I worked with [Amitai Shenhav](https://www.shenhavlab.org/), [Michael J. Frank](https://www.lnccbrown.com/), and [Matthew Nassar](https://sites.brown.edu/mattlab/). I recently completed a C.V. Starr Fellowship at the Princeton Neuroscience Institute, working with [Jonathan Cohen](https://ncclab.princeton.edu/) and [Nathaniel Daw](https://dawlab.princeton.edu/).
 <br><br>
-I am currently a Connected Minds Fellow at Queen's Univeristy, working with [Gunnar Blohm](https://compneurosci.com), and a visting fellow at the Rotman Research Institute, working with [Björn Herrmann](https://www.auditoryaging.com) and [Douglas Cheyne](https://lab.research.sickkids.ca/cheyne/).
+I am currently a Connected Minds Fellow at Queen's Univeristy, working with [Gunnar Blohm](https://compneurosci.com) and [Emily Oby](https://www.obylab.com), and a visting fellow at the Rotman Research Institute, working with [Björn Herrmann](https://www.auditoryaging.com) and [Douglas Cheyne](https://lab.research.sickkids.ca/cheyne/).
 <br>
 I am currently on the job market, looking for a tenure-track professor position at a Canadian University.
 <br><br>
