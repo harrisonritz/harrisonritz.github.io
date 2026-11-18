@@ -3,11 +3,11 @@ layout: homepage
 ---
 <br>
 ### *How do we change our state of mind?*
-My research explores the dynamics of cognitive control --- e.g., shifting attention, decision strategies, or task sets --- though the lens of dynamical systems and control theory. I approach these questions through a combination of **empirical experiments** (e.g., psychophysics, fMRI, MEG) and **computational modelling** (e.g., evidence accumulation, neural network modelling, state-space inference, inverse optimal control). I am also very interested in how cognitive control dynamics change over the lifespan.
+My research explores the dynamics of cognitive control --- e.g., shifting attention, decision strategies, or task sets --- though the lens of dynamical systems and control theory. I approach these questions through a combination of **empirical experiments** (e.g., psychophysics, fMRI, MEG) and **computational modelling** (e.g., evidence accumulation, neural network modelling, state-space inference, inverse optimal control). I am also very interested in how cognitive control dynamics change over the lifespan and in neurological disorders.
 <br><br>
 I completed my BSc at Queen's University and my MSc at University of Western Ontario, both working with [Ingrid Johnsrude](https://sites.google.com/site/johnsrudeconchlab/home). During my PhD at Brown University, I worked with [Amitai Shenhav](https://www.shenhavlab.org/), [Michael J. Frank](https://www.lnccbrown.com/), and [Matthew Nassar](https://sites.brown.edu/mattlab/). I recently completed a C.V. Starr Fellowship at the Princeton Neuroscience Institute, working with [Jonathan Cohen](https://ncclab.princeton.edu/) and [Nathaniel Daw](https://dawlab.princeton.edu/).
 <br><br>
-I am currently a Connected Minds Fellow at Queen's Univeristy, working with [Gunnar Blohm](https://compneurosci.com) and [Emily Oby](https://www.obylab.com), and a visting fellow at the Rotman Research Institute, working with [Björn Herrmann](https://www.auditoryaging.com) and [Douglas Cheyne](https://lab.research.sickkids.ca/cheyne/). I am on the job market, looking for a research-stream professorship at a Canadian University.
+I am currently a Connected Minds Fellow at Queen's University, working with [Gunnar Blohm](https://compneurosci.com) and [Emily Oby](https://www.obylab.com), and a visiting fellow at the Rotman Research Institute, working with [Björn Herrmann](https://www.auditoryaging.com) and [Douglas Cheyne](https://lab.research.sickkids.ca/cheyne/). I am on the job market, looking for a research-stream professorship at a Canadian University.
 <br><br>
 [[Curriculum Vitae](./assets/CV/Ritz-CV_2026-08.pdf)]
 <br><br><br>
@@ -31,7 +31,7 @@ I am currently a Connected Minds Fellow at Queen's Univeristy, working with [Gun
 
 - **Adaptive behavior is guided by integrated representations of controlled and non-controlled information**
   <br>
-  Huang, B., **Ritz, H.**, Jiang, J. (2026) _eLife_
+  Huang, B., **Ritz, H.**, & Jiang, J. (2026) _eLife_
   <br>
   [[pdf](./assets/papers/elife-108673-v1.pdf)]
   [[web](https://doi.org/10.7554/eLife.108673.5)]
@@ -39,7 +39,7 @@ I am currently a Connected Minds Fellow at Queen's Univeristy, working with [Gun
 
 - **Twelve quick tips for AI-assisted coding in science** 
   <br>
-  Bridgeford, E., Campbell, I.D., Chen, Z., Lin, Z., **Ritz, H.**, Vandekerckhove, J., Poldrack. R.A. [middle authors alphabetical] (2026) _PLOS Computational Biology_
+  Bridgeford, E., Campbell, I.D., Chen, Z., Lin, Z., **Ritz, H.**, Vandekerckhove, J., & Poldrack, R.A. [middle authors alphabetical] (2026) _PLOS Computational Biology_
   <br>
   [[pdf](./assets/papers/journal.pcbi.1014428.pdf)] 
   [[web](https://doi.org/10.1371/journal.pcbi.1014428)] 
@@ -79,7 +79,7 @@ I am currently a Connected Minds Fellow at Queen's Univeristy, working with [Gun
 
 - **Test-Retest Reliability of the Human Connectome: An OPM-MEG study**
   <br>
-  Rier, L., Michelmann, S., **Ritz, H.**, Shah, V., Hill, R.M., Osborne, J., Doyle, C., Holmes, N., Bowtell, R., Brookes, M.J., Norman, K.A., Hasson, U., Cohen, J.D., Boto, E. (2023) _Imaging Neuroscience_
+  Rier, L., Michelmann, S., **Ritz, H.**, Shah, V., Hill, R.M., Osborne, J., Doyle, C., Holmes, N., Bowtell, R., Brookes, M.J., Norman, K.A., Hasson, U., Cohen, J.D., & Boto, E. (2023) _Imaging Neuroscience_
   <br> 
   [[pdf](./assets/papers/Rier et al. 2023 - Test-retest reliability of the human connectome - An OPM-MEG study.pdf)] 
   [[web](https://doi.org/10.1162/imag_a_00020)]
@@ -166,7 +166,7 @@ I am currently a Connected Minds Fellow at Queen's Univeristy, working with [Gun
 
 - **Orthogonal Task Representation Enables Flexible Task Switching in Human OPM-MEG and Neural Networks**
   <br>
-  Liu, X., Nystrom, L., Mark P., DePinto N., Wolf W.A., Daw N., Kastner, S., Cohen J.D.#, **Ritz, H.**# (2026) _Cognitive Computational Neuroscience_. Extended Abstract [talk; spotlight (top 10%)]
+  Liu, X., Nystrom, L., Mark P., DePinto N., Wolf W.A., Daw N., Kastner, S., Cohen J.D.#, & **Ritz, H.**# (2026) _Cognitive Computational Neuroscience_. Extended Abstract [contributed talk; spotlight (top 10%)]
   <br>
 
 - **Inferring System and Optimal Control Parameters of Closed-Loop Systems from Partial Observations**
